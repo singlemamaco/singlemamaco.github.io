@@ -1,6 +1,6229 @@
 Grailbird.data.tweets_2017_11 = 
 [
 	{
+		"created_at": "Thu Nov 09 23:08:50 +0000 2017",
+		"id": 928761325433622500,
+		"id_str": "928761325433622533",
+		"text": "RT @marianney: Learn the magic to transform your blog's design from meh to lovely! Crush CSS is officially open -- save 48% for th… https:/…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 22:36:01 +0000 2017",
+			"id": 928753067994112000,
+			"id_str": "928753067994112001",
+			"text": "Learn the magic to transform your blog's design from meh to lovely! Crush CSS is officially open -- save 48% for th… https://t.co/FeWTq3XWU3",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/FeWTq3XWU3",
+						"expanded_url": "https://twitter.com/i/web/status/928753067994112001",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 22:28:42 +0000 2017",
+		"id": 928751225893457900,
+		"id_str": "928751225893457920",
+		"text": "RT @marianney: 12 Fabulously Feminine WordPress Themes https://t.co/WEUJrpsrom",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/WEUJrpsrom",
+					"expanded_url": "http://bit.ly/1EXn9oe",
+					"display_url": "bit.ly/1EXn9oe",
+					"indices": [
+						55,
+						78
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 22:26:40 +0000 2017",
+			"id": 928750713831690200,
+			"id_str": "928750713831690242",
+			"text": "12 Fabulously Feminine WordPress Themes https://t.co/WEUJrpsrom",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/WEUJrpsrom",
+						"expanded_url": "http://bit.ly/1EXn9oe",
+						"display_url": "bit.ly/1EXn9oe",
+						"indices": [
+							40,
+							63
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.leavingworkbehind.com\" rel=\"nofollow\">Evergreen Post Tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 22:08:38 +0000 2017",
+		"id": 928746176177934300,
+		"id_str": "928746176177934337",
+		"text": "RT @desertpineco: I've said it before but custom logo stamps are often the perfect branding solution for businesses that are on the fly or…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "desertpineco",
+					"name": "Amanda Agassiz",
+					"id": 2792422008,
+					"id_str": "2792422008",
+					"indices": [
+						3,
+						16
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 21:48:07 +0000 2017",
+			"id": 928741013274763300,
+			"id_str": "928741013274763264",
+			"text": "I've said it before but custom logo stamps are often the perfect branding solution for businesses that are on the f… https://t.co/eDrLRBdo35",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eDrLRBdo35",
+						"expanded_url": "https://twitter.com/i/web/status/928741013274763264",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2792422008,
+				"id_str": "2792422008",
+				"name": "Amanda Agassiz",
+				"screen_name": "desertpineco",
+				"location": "Kamloops, British Columbia",
+				"description": "A boutique studio focused on branding, web design & paper goods for small businesses and creative entrepreneurs.",
+				"url": null,
+				"entities": {
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 72,
+				"friends_count": 164,
+				"listed_count": 8,
+				"created_at": "Fri Sep 05 18:52:06 +0000 2014",
+				"favourites_count": 20,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 39,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/588848219859202050/IZ0gDtlb.jpg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/588848219859202050/IZ0gDtlb.jpg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/923658411572469760/-2cpuPlm_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/923658411572469760/-2cpuPlm_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2792422008/1509053016",
+				"profile_link_color": "B7886E",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 21:23:28 +0000 2017",
+		"id": 928734810008408000,
+		"id_str": "928734810008408066",
+		"text": "RT @bluchic: Self-doubt is the worst. Learn how to overcome self-doubt as a #girlboss with these tips! https://t.co/2qYwQ1Lih6 https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "girlboss",
+					"indices": [
+						76,
+						85
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluchic",
+					"name": "Bluchic",
+					"id": 377196474,
+					"id_str": "377196474",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/2qYwQ1Lih6",
+					"expanded_url": "http://bit.ly/2lWTUUx",
+					"display_url": "bit.ly/2lWTUUx",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 21:09:42 +0000 2017",
+			"id": 928731345064472600,
+			"id_str": "928731345064472576",
+			"text": "Self-doubt is the worst. Learn how to overcome self-doubt as a #girlboss with these tips! https://t.co/2qYwQ1Lih6 https://t.co/UaUodqheIx",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "girlboss",
+						"indices": [
+							63,
+							72
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/2qYwQ1Lih6",
+						"expanded_url": "http://bit.ly/2lWTUUx",
+						"display_url": "bit.ly/2lWTUUx",
+						"indices": [
+							90,
+							113
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928731342401146900,
+						"id_str": "928731342401146881",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DOOEPDuXkAEj_Hq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOOEPDuXkAEj_Hq.jpg",
+						"url": "https://t.co/UaUodqheIx",
+						"display_url": "pic.twitter.com/UaUodqheIx",
+						"expanded_url": "https://twitter.com/bluchic/status/928731345064472576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928731342401146900,
+						"id_str": "928731342401146881",
+						"indices": [
+							114,
+							137
+						],
+						"media_url": "http://pbs.twimg.com/media/DOOEPDuXkAEj_Hq.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOOEPDuXkAEj_Hq.jpg",
+						"url": "https://t.co/UaUodqheIx",
+						"display_url": "pic.twitter.com/UaUodqheIx",
+						"expanded_url": "https://twitter.com/bluchic/status/928731345064472576/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 377196474,
+				"id_str": "377196474",
+				"name": "Bluchic",
+				"screen_name": "bluchic",
+				"location": "",
+				"description": "We create feminine WordPress Themes for female entrepreneurs & bloggers going from hobby to serious business. 💁🏻 Get free themes https://t.co/sOIPuFpkOR",
+				"url": "https://t.co/yndfCLZj7g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yndfCLZj7g",
+								"expanded_url": "http://www.bluchic.com",
+								"display_url": "bluchic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sOIPuFpkOR",
+								"expanded_url": "http://www.bluchic.com/freebies",
+								"display_url": "bluchic.com/freebies",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1818,
+				"friends_count": 477,
+				"listed_count": 134,
+				"created_at": "Wed Sep 21 05:28:22 +0000 2011",
+				"favourites_count": 519,
+				"utc_offset": 28800,
+				"time_zone": "Kuala Lumpur",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF2EF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/377196474/1478445245",
+				"profile_link_color": "EB556B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF5F7",
+				"profile_text_color": "1F1F1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 20:23:48 +0000 2017",
+		"id": 928719796161728500,
+		"id_str": "928719796161728512",
+		"text": "Use RoundTeam to find &amp; share awesome social content created by others - boosts engagement, easy way. https://t.co/ExCod5U2PU",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ExCod5U2PU",
+					"expanded_url": "https://roundteam.co/?utm_source=twitter&utm_medium=promo_tweet&utm_campaign=tweet_13",
+					"display_url": "roundteam.co/?utm_source=tw…",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 20:23:16 +0000 2017",
+		"id": 928719659259564000,
+		"id_str": "928719659259564032",
+		"text": "RT @marianney: Learn from the Best! \n\nThe upcoming Teachable summit features advice from people who just happen to have made over $20,000 E…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 20:13:05 +0000 2017",
+			"id": 928717097122885600,
+			"id_str": "928717097122885633",
+			"text": "Learn from the Best! \n\nThe upcoming Teachable summit features advice from people who just happen to have made over… https://t.co/Nqi7RvCwhk",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/Nqi7RvCwhk",
+						"expanded_url": "https://twitter.com/i/web/status/928717097122885633",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 20:08:13 +0000 2017",
+		"id": 928715871920541700,
+		"id_str": "928715871920541698",
+		"text": "RT @tarragonstudios: \"The Price of Success is Hard Work...\" Vince Lombardi #startup #biztips #business https://t.co/GgjJE8wGyZ",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "startup",
+					"indices": [
+						75,
+						83
+					]
+				},
+				{
+					"text": "biztips",
+					"indices": [
+						84,
+						92
+					]
+				},
+				{
+					"text": "business",
+					"indices": [
+						93,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tarragonstudios",
+					"name": "Samantha McHone",
+					"id": 3368081679,
+					"id_str": "3368081679",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [],
+			"media": [
+				{
+					"id": 928714518338986000,
+					"id_str": "928714518338985985",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+					"url": "https://t.co/GgjJE8wGyZ",
+					"display_url": "pic.twitter.com/GgjJE8wGyZ",
+					"expanded_url": "https://twitter.com/tarragonstudios/status/928714522168356865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 694,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 928714522168356900,
+					"source_status_id_str": "928714522168356865",
+					"source_user_id": 3368081679,
+					"source_user_id_str": "3368081679"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928714518338986000,
+					"id_str": "928714518338985985",
+					"indices": [
+						103,
+						126
+					],
+					"media_url": "http://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+					"url": "https://t.co/GgjJE8wGyZ",
+					"display_url": "pic.twitter.com/GgjJE8wGyZ",
+					"expanded_url": "https://twitter.com/tarragonstudios/status/928714522168356865/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 694,
+							"h": 469,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 694,
+							"h": 469,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					},
+					"source_status_id": 928714522168356900,
+					"source_status_id_str": "928714522168356865",
+					"source_user_id": 3368081679,
+					"source_user_id_str": "3368081679"
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 20:02:51 +0000 2017",
+			"id": 928714522168356900,
+			"id_str": "928714522168356865",
+			"text": "\"The Price of Success is Hard Work...\" Vince Lombardi #startup #biztips #business https://t.co/GgjJE8wGyZ",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "startup",
+						"indices": [
+							54,
+							62
+						]
+					},
+					{
+						"text": "biztips",
+						"indices": [
+							63,
+							71
+						]
+					},
+					{
+						"text": "business",
+						"indices": [
+							72,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928714518338986000,
+						"id_str": "928714518338985985",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+						"url": "https://t.co/GgjJE8wGyZ",
+						"display_url": "pic.twitter.com/GgjJE8wGyZ",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928714522168356865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 694,
+								"h": 469,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 469,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928714518338986000,
+						"id_str": "928714518338985985",
+						"indices": [
+							82,
+							105
+						],
+						"media_url": "http://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DON07xNX4AECiLK.jpg",
+						"url": "https://t.co/GgjJE8wGyZ",
+						"display_url": "pic.twitter.com/GgjJE8wGyZ",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928714522168356865/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 694,
+								"h": 469,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 460,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 694,
+								"h": 469,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3368081679,
+				"id_str": "3368081679",
+				"name": "Samantha McHone",
+				"screen_name": "tarragonstudios",
+				"location": "",
+				"description": "Brand Strategist | Graphic Designer | Website Builder - Ready to spice up your brand? \nhttps://t.co/B65DyyPlnC",
+				"url": "https://t.co/B65DyyPlnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 606,
+				"listed_count": 123,
+				"created_at": "Thu Jul 09 18:54:35 +0000 2015",
+				"favourites_count": 802,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368081679/1507535391",
+				"profile_link_color": "B66A2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 19:23:04 +0000 2017",
+		"id": 928704509236469800,
+		"id_str": "928704509236469761",
+		"text": "RT @tarragonstudios: Why \"just a logo\" won't get the job done https://t.co/KpStRt6m18",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tarragonstudios",
+					"name": "Samantha McHone",
+					"id": 3368081679,
+					"id_str": "3368081679",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/KpStRt6m18",
+					"expanded_url": "http://www.tarragonstudios.com/design-blog/just-a-logo",
+					"display_url": "tarragonstudios.com/design-blog/ju…",
+					"indices": [
+						62,
+						85
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 19:09:11 +0000 2017",
+			"id": 928701017667063800,
+			"id_str": "928701017667063808",
+			"text": "Why \"just a logo\" won't get the job done https://t.co/KpStRt6m18",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/KpStRt6m18",
+						"expanded_url": "http://www.tarragonstudios.com/design-blog/just-a-logo",
+						"display_url": "tarragonstudios.com/design-blog/ju…",
+						"indices": [
+							41,
+							64
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://recurpost.com\" rel=\"nofollow\">Recycle Updates</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3368081679,
+				"id_str": "3368081679",
+				"name": "Samantha McHone",
+				"screen_name": "tarragonstudios",
+				"location": "",
+				"description": "Brand Strategist | Graphic Designer | Website Builder - Ready to spice up your brand? \nhttps://t.co/B65DyyPlnC",
+				"url": "https://t.co/B65DyyPlnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 606,
+				"listed_count": 123,
+				"created_at": "Thu Jul 09 18:54:35 +0000 2015",
+				"favourites_count": 802,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368081679/1507535391",
+				"profile_link_color": "B66A2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 19:08:01 +0000 2017",
+		"id": 928700721859645400,
+		"id_str": "928700721859645440",
+		"text": "RT @stnsvn: If you feel a bit defeated trying to use #WordPress, let us help you! We have an in-depth glossary right here: https://t.co/V1G…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordPress",
+					"indices": [
+						53,
+						63
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "stnsvn",
+					"name": "Station Seven",
+					"id": 2992543327,
+					"id_str": "2992543327",
+					"indices": [
+						3,
+						10
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 18:57:03 +0000 2017",
+			"id": 928697965400739800,
+			"id_str": "928697965400739840",
+			"text": "If you feel a bit defeated trying to use #WordPress, let us help you! We have an in-depth glossary right here:… https://t.co/eRPVWmujww",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WordPress",
+						"indices": [
+							41,
+							51
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/eRPVWmujww",
+						"expanded_url": "https://twitter.com/i/web/status/928697965400739840",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							112,
+							135
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2992543327,
+				"id_str": "2992543327",
+				"name": "Station Seven",
+				"screen_name": "stnsvn",
+				"location": "Vancouver, Canada",
+				"description": "Husband + wife design team crafting unique themes, design kits, and resources for creative entrepreneurs, bloggers and makers. Support: https://t.co/xtJ3rdtqfv",
+				"url": "http://t.co/lsxfxk4qdD",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/lsxfxk4qdD",
+								"expanded_url": "http://stnsvn.com",
+								"display_url": "stnsvn.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/xtJ3rdtqfv",
+								"expanded_url": "http://stnsvn.com/faq",
+								"display_url": "stnsvn.com/faq",
+								"indices": [
+									136,
+									159
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 912,
+				"friends_count": 288,
+				"listed_count": 57,
+				"created_at": "Thu Jan 22 19:08:06 +0000 2015",
+				"favourites_count": 1619,
+				"utc_offset": -28800,
+				"time_zone": "Tijuana",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1800,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": true,
+				"profile_background_color": "E8E8E8",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/725457660947120128/EsgEStUc_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/725457660947120128/EsgEStUc_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2992543327/1461797792",
+				"profile_link_color": "8BA5B0",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 18:22:52 +0000 2017",
+		"id": 928689359813009400,
+		"id_str": "928689359813009415",
+		"text": "RT @marianney: How to Boost your Online Presence by Picking the Right Themes and Templates https://t.co/6rbpE8QiOq",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/6rbpE8QiOq",
+					"expanded_url": "http://bit.ly/Q6Ht4u",
+					"display_url": "bit.ly/Q6Ht4u",
+					"indices": [
+						91,
+						114
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 18:21:59 +0000 2017",
+			"id": 928689137816764400,
+			"id_str": "928689137816764416",
+			"text": "How to Boost your Online Presence by Picking the Right Themes and Templates https://t.co/6rbpE8QiOq",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/6rbpE8QiOq",
+						"expanded_url": "http://bit.ly/Q6Ht4u",
+						"display_url": "bit.ly/Q6Ht4u",
+						"indices": [
+							76,
+							99
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.leavingworkbehind.com\" rel=\"nofollow\">Evergreen Post Tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 18:07:49 +0000 2017",
+		"id": 928685572268445700,
+		"id_str": "928685572268445696",
+		"text": "RT @tarragonstudios: So many #business ideas, you don’t know where to start? Take the 1st step to narrow 'em down with this #FREE course ht…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "business",
+					"indices": [
+						29,
+						38
+					]
+				},
+				{
+					"text": "FREE",
+					"indices": [
+						124,
+						129
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tarragonstudios",
+					"name": "Samantha McHone",
+					"id": 3368081679,
+					"id_str": "3368081679",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 18:03:05 +0000 2017",
+			"id": 928684382973554700,
+			"id_str": "928684382973554693",
+			"text": "So many #business ideas, you don’t know where to start? Take the 1st step to narrow 'em down with this #FREE course… https://t.co/ULFqxDwwSj",
+			"truncated": true,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "business",
+						"indices": [
+							8,
+							17
+						]
+					},
+					{
+						"text": "FREE",
+						"indices": [
+							103,
+							108
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/ULFqxDwwSj",
+						"expanded_url": "https://twitter.com/i/web/status/928684382973554693",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3368081679,
+				"id_str": "3368081679",
+				"name": "Samantha McHone",
+				"screen_name": "tarragonstudios",
+				"location": "",
+				"description": "Brand Strategist | Graphic Designer | Website Builder - Ready to spice up your brand? \nhttps://t.co/B65DyyPlnC",
+				"url": "https://t.co/B65DyyPlnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 606,
+				"listed_count": 123,
+				"created_at": "Thu Jul 09 18:54:35 +0000 2015",
+				"favourites_count": 802,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368081679/1507535391",
+				"profile_link_color": "B66A2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 17:02:36 +0000 2017",
+		"id": 928669159633969200,
+		"id_str": "928669159633969153",
+		"text": "RT @tarragonstudios: What's keeping you from starting that blog? #blog #blogging #inspiration #blogger https://t.co/gP1O8PWvbA https://t.co…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "blog",
+					"indices": [
+						65,
+						70
+					]
+				},
+				{
+					"text": "blogging",
+					"indices": [
+						71,
+						80
+					]
+				},
+				{
+					"text": "inspiration",
+					"indices": [
+						81,
+						93
+					]
+				},
+				{
+					"text": "blogger",
+					"indices": [
+						94,
+						102
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tarragonstudios",
+					"name": "Samantha McHone",
+					"id": 3368081679,
+					"id_str": "3368081679",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/gP1O8PWvbA",
+					"expanded_url": "http://bit.ly/2ykRXbg",
+					"display_url": "bit.ly/2ykRXbg",
+					"indices": [
+						103,
+						126
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 17:01:21 +0000 2017",
+			"id": 928668846898028500,
+			"id_str": "928668846898028544",
+			"text": "What's keeping you from starting that blog? #blog #blogging #inspiration #blogger https://t.co/gP1O8PWvbA https://t.co/jfvLGVQSbt",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "blog",
+						"indices": [
+							44,
+							49
+						]
+					},
+					{
+						"text": "blogging",
+						"indices": [
+							50,
+							59
+						]
+					},
+					{
+						"text": "inspiration",
+						"indices": [
+							60,
+							72
+						]
+					},
+					{
+						"text": "blogger",
+						"indices": [
+							73,
+							81
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/gP1O8PWvbA",
+						"expanded_url": "http://bit.ly/2ykRXbg",
+						"display_url": "bit.ly/2ykRXbg",
+						"indices": [
+							82,
+							105
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928668843496693800,
+						"id_str": "928668843496693761",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DONLZJKX4AEYCIX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DONLZJKX4AEYCIX.jpg",
+						"url": "https://t.co/jfvLGVQSbt",
+						"display_url": "pic.twitter.com/jfvLGVQSbt",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928668846898028544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928668843496693800,
+						"id_str": "928668843496693761",
+						"indices": [
+							106,
+							129
+						],
+						"media_url": "http://pbs.twimg.com/media/DONLZJKX4AEYCIX.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DONLZJKX4AEYCIX.jpg",
+						"url": "https://t.co/jfvLGVQSbt",
+						"display_url": "pic.twitter.com/jfvLGVQSbt",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928668846898028544/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1200,
+								"h": 600,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1600,
+								"h": 800,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3368081679,
+				"id_str": "3368081679",
+				"name": "Samantha McHone",
+				"screen_name": "tarragonstudios",
+				"location": "",
+				"description": "Brand Strategist | Graphic Designer | Website Builder - Ready to spice up your brand? \nhttps://t.co/B65DyyPlnC",
+				"url": "https://t.co/B65DyyPlnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 606,
+				"listed_count": 123,
+				"created_at": "Thu Jul 09 18:54:35 +0000 2015",
+				"favourites_count": 802,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368081679/1507535391",
+				"profile_link_color": "B66A2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 16:12:26 +0000 2017",
+		"id": 928656535122825200,
+		"id_str": "928656535122825216",
+		"text": "RT @xorachelgreen: I want you to succeed. Check out my favorite tools and resources for an intentional life and business. https://t.co/8vqd…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "xorachelgreen",
+					"name": "Rachel Green",
+					"id": 485282641,
+					"id_str": "485282641",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 15:58:00 +0000 2017",
+			"id": 928652905359560700,
+			"id_str": "928652905359560705",
+			"text": "I want you to succeed. Check out my favorite tools and resources for an intentional life and business. https://t.co/8vqdLQZM9o",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/8vqdLQZM9o",
+						"expanded_url": "http://bit.ly/2zhhm5r",
+						"display_url": "bit.ly/2zhhm5r",
+						"indices": [
+							103,
+							126
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 485282641,
+				"id_str": "485282641",
+				"name": "Rachel Green",
+				"screen_name": "xorachelgreen",
+				"location": "Kentucky",
+				"description": "Owner + designer of Intentionally Designed: lifestyle + branding design for busy women and creative entrepreneurs",
+				"url": "https://t.co/wq9xiO9ENa",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wq9xiO9ENa",
+								"expanded_url": "http://www.intentionally-designed.com",
+								"display_url": "intentionally-designed.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 749,
+				"friends_count": 690,
+				"listed_count": 49,
+				"created_at": "Tue Feb 07 01:32:26 +0000 2012",
+				"favourites_count": 1906,
+				"utc_offset": -21600,
+				"time_zone": "Central Time (US & Canada)",
+				"geo_enabled": true,
+				"verified": false,
+				"statuses_count": 4868,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "DFF1EA",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000149499704/zL8eJNf_.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000149499704/zL8eJNf_.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/836575514546552832/pccqeoMd_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/836575514546552832/pccqeoMd_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/485282641/1457716621",
+				"profile_link_color": "333333",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 15:37:17 +0000 2017",
+		"id": 928647688903643100,
+		"id_str": "928647688903643136",
+		"text": "RT @idCreate: Planning an upcoming holiday campaign? We can bring your marketing ideas to life: https://t.co/u1ANN1dpCC",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "idCreate",
+					"name": "Illustrated Designs",
+					"id": 2847007125,
+					"id_str": "2847007125",
+					"indices": [
+						3,
+						12
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/u1ANN1dpCC",
+					"expanded_url": "http://ow.ly/B8fC30fDjYH",
+					"display_url": "ow.ly/B8fC30fDjYH",
+					"indices": [
+						96,
+						119
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 15:35:04 +0000 2017",
+			"id": 928647133581992000,
+			"id_str": "928647133581991937",
+			"text": "Planning an upcoming holiday campaign? We can bring your marketing ideas to life: https://t.co/u1ANN1dpCC",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/u1ANN1dpCC",
+						"expanded_url": "http://ow.ly/B8fC30fDjYH",
+						"display_url": "ow.ly/B8fC30fDjYH",
+						"indices": [
+							82,
+							105
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 2847007125,
+				"id_str": "2847007125",
+				"name": "Illustrated Designs",
+				"screen_name": "idCreate",
+				"location": "Hatfield, PA",
+				"description": "Our experienced & creative graphic design team is here to bring your vision to life. Logos, catalogs, event decor & more...",
+				"url": "https://t.co/cIFcsTnfYu",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/cIFcsTnfYu",
+								"expanded_url": "http://www.illustrateddesigns.net",
+								"display_url": "illustrateddesigns.net",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 553,
+				"friends_count": 2562,
+				"listed_count": 32,
+				"created_at": "Mon Oct 27 17:55:39 +0000 2014",
+				"favourites_count": 10,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2113,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/656920715065729025/sUYDWSDJ_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/656920715065729025/sUYDWSDJ_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/2847007125/1475696590",
+				"profile_link_color": "89C9FA",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 15:12:11 +0000 2017",
+		"id": 928641372801962000,
+		"id_str": "928641372801961985",
+		"text": "RT @hannahditto: Throwback to the summer when we headed into the woods with @mariaassia_photography and I pretended to shoot Dan wi… https:…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "hannahditto",
+					"name": "Hannah Belton",
+					"id": 21074578,
+					"id_str": "21074578",
+					"indices": [
+						3,
+						15
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 15:08:21 +0000 2017",
+			"id": 928640410762825700,
+			"id_str": "928640410762825728",
+			"text": "Throwback to the summer when we headed into the woods with @mariaassia_photography and I pretended to shoot Dan wi…… https://t.co/mAJraWQ83r",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mAJraWQ83r",
+						"expanded_url": "https://twitter.com/i/web/status/928640410762825728",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							117,
+							140
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 21074578,
+				"id_str": "21074578",
+				"name": "Hannah Belton",
+				"screen_name": "hannahditto",
+				"location": "Sevenoaks, Kent",
+				"description": "Creative director and brand stylist at Ditto. Specialist in crafting distinctive brands for brilliant people who like to do business with hustle and heart",
+				"url": "https://t.co/yBOIq8rl7f",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yBOIq8rl7f",
+								"expanded_url": "http://www.ditto.uk.com/",
+								"display_url": "ditto.uk.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 2541,
+				"friends_count": 2463,
+				"listed_count": 75,
+				"created_at": "Tue Feb 17 08:53:16 +0000 2009",
+				"favourites_count": 1483,
+				"utc_offset": 0,
+				"time_zone": "London",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 8680,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "EDECE9",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000109018983/99ea47a2a92575979ddee321dfbd34b3.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000109018983/99ea47a2a92575979ddee321dfbd34b3.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/912248435583184896/V39Ay7ql_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/912248435583184896/V39Ay7ql_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/21074578/1488890938",
+				"profile_link_color": "088253",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "E3E2DE",
+				"profile_text_color": "634047",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 14:17:03 +0000 2017",
+		"id": 928627499428433900,
+		"id_str": "928627499428433920",
+		"text": "There's a ton of great content created on social media daily. RoundTeam helps to find &amp; use what's relevant to you! https://t.co/yNjd0R3v2g",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/yNjd0R3v2g",
+					"expanded_url": "https://roundteam.co/?utm_source=twitter&utm_medium=promo_tweet&utm_campaign=tweet_12",
+					"display_url": "roundteam.co/?utm_source=tw…",
+					"indices": [
+						120,
+						143
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 14:17:00 +0000 2017",
+		"id": 928627485587198000,
+		"id_str": "928627485587197952",
+		"text": "RT @marianney: 20 Beautiful Handwritten Script Fonts https://t.co/v32ReViYhk",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/v32ReViYhk",
+					"expanded_url": "http://bit.ly/1CV9dzM",
+					"display_url": "bit.ly/1CV9dzM",
+					"indices": [
+						53,
+						76
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 14:15:20 +0000 2017",
+			"id": 928627068710957000,
+			"id_str": "928627068710957057",
+			"text": "20 Beautiful Handwritten Script Fonts https://t.co/v32ReViYhk",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/v32ReViYhk",
+						"expanded_url": "http://bit.ly/1CV9dzM",
+						"display_url": "bit.ly/1CV9dzM",
+						"indices": [
+							38,
+							61
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.leavingworkbehind.com\" rel=\"nofollow\">Evergreen Post Tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 14:11:59 +0000 2017",
+		"id": 928626223189807100,
+		"id_str": "928626223189807108",
+		"text": "RT @marianney: LAST DAY...\n...to grab these lifetime bonuses w/ Crush CSS: Code School for Bloggers, a 6 module video course with cheat she…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 14:11:01 +0000 2017",
+			"id": 928625981434232800,
+			"id_str": "928625981434232832",
+			"text": "LAST DAY...\n...to grab these lifetime bonuses w/ Crush CSS: Code School for Bloggers, a 6 module video course with… https://t.co/mqzaWu2qpq",
+			"truncated": true,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/mqzaWu2qpq",
+						"expanded_url": "https://twitter.com/i/web/status/928625981434232832",
+						"display_url": "twitter.com/i/web/status/9…",
+						"indices": [
+							116,
+							139
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 13:01:45 +0000 2017",
+		"id": 928608547465818100,
+		"id_str": "928608547465818112",
+		"text": "RT @bluchic: Have you reviewed your About Page recently? It’s time for an #update (after your read this): https://t.co/j5QvSFRrdc https://t…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "update",
+					"indices": [
+						74,
+						81
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluchic",
+					"name": "Bluchic",
+					"id": 377196474,
+					"id_str": "377196474",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/j5QvSFRrdc",
+					"expanded_url": "http://bit.ly/2b6ovWs",
+					"display_url": "bit.ly/2b6ovWs",
+					"indices": [
+						106,
+						129
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 13:00:50 +0000 2017",
+			"id": 928608318536536000,
+			"id_str": "928608318536536064",
+			"text": "Have you reviewed your About Page recently? It’s time for an #update (after your read this): https://t.co/j5QvSFRrdc https://t.co/6UYOKEDqSY",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "update",
+						"indices": [
+							61,
+							68
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/j5QvSFRrdc",
+						"expanded_url": "http://bit.ly/2b6ovWs",
+						"display_url": "bit.ly/2b6ovWs",
+						"indices": [
+							93,
+							116
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928608316581908500,
+						"id_str": "928608316581908481",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DOMUWA1WkAEEyVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOMUWA1WkAEEyVB.jpg",
+						"url": "https://t.co/6UYOKEDqSY",
+						"display_url": "pic.twitter.com/6UYOKEDqSY",
+						"expanded_url": "https://twitter.com/bluchic/status/928608318536536064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928608316581908500,
+						"id_str": "928608316581908481",
+						"indices": [
+							117,
+							140
+						],
+						"media_url": "http://pbs.twimg.com/media/DOMUWA1WkAEEyVB.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOMUWA1WkAEEyVB.jpg",
+						"url": "https://t.co/6UYOKEDqSY",
+						"display_url": "pic.twitter.com/6UYOKEDqSY",
+						"expanded_url": "https://twitter.com/bluchic/status/928608318536536064/photo/1",
+						"type": "photo",
+						"sizes": {
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://www.socialjukebox.com\" rel=\"nofollow\">The Social Jukebox</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 377196474,
+				"id_str": "377196474",
+				"name": "Bluchic",
+				"screen_name": "bluchic",
+				"location": "",
+				"description": "We create feminine WordPress Themes for female entrepreneurs & bloggers going from hobby to serious business. 💁🏻 Get free themes https://t.co/sOIPuFpkOR",
+				"url": "https://t.co/yndfCLZj7g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yndfCLZj7g",
+								"expanded_url": "http://www.bluchic.com",
+								"display_url": "bluchic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sOIPuFpkOR",
+								"expanded_url": "http://www.bluchic.com/freebies",
+								"display_url": "bluchic.com/freebies",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1818,
+				"friends_count": 477,
+				"listed_count": 134,
+				"created_at": "Wed Sep 21 05:28:22 +0000 2011",
+				"favourites_count": 519,
+				"utc_offset": 28800,
+				"time_zone": "Kuala Lumpur",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF2EF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/377196474/1478445245",
+				"profile_link_color": "EB556B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF5F7",
+				"profile_text_color": "1F1F1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 12:31:39 +0000 2017",
+		"id": 928600973316149200,
+		"id_str": "928600973316149249",
+		"text": "RT @marianney: 15 Professional Font Families for $1 a Piece! https://t.co/MknSmSAVD4",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MknSmSAVD4",
+					"expanded_url": "http://bit.ly/1Qw00Ez",
+					"display_url": "bit.ly/1Qw00Ez",
+					"indices": [
+						61,
+						84
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 12:28:42 +0000 2017",
+			"id": 928600231956004900,
+			"id_str": "928600231956004864",
+			"text": "15 Professional Font Families for $1 a Piece! https://t.co/MknSmSAVD4",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MknSmSAVD4",
+						"expanded_url": "http://bit.ly/1Qw00Ez",
+						"display_url": "bit.ly/1Qw00Ez",
+						"indices": [
+							46,
+							69
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.leavingworkbehind.com\" rel=\"nofollow\">Evergreen Post Tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 12:01:33 +0000 2017",
+		"id": 928593397824270300,
+		"id_str": "928593397824270338",
+		"text": "RT @tarragonstudios: How do you stay on-task during the day? Do you use an app, lists, a scheduler? #smallbiz #biztip #b2b #b2c https://t.c…",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "smallbiz",
+					"indices": [
+						100,
+						109
+					]
+				},
+				{
+					"text": "biztip",
+					"indices": [
+						110,
+						117
+					]
+				},
+				{
+					"text": "b2b",
+					"indices": [
+						118,
+						122
+					]
+				},
+				{
+					"text": "b2c",
+					"indices": [
+						123,
+						127
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "tarragonstudios",
+					"name": "Samantha McHone",
+					"id": 3368081679,
+					"id_str": "3368081679",
+					"indices": [
+						3,
+						19
+					]
+				}
+			],
+			"urls": []
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 12:01:08 +0000 2017",
+			"id": 928593294023675900,
+			"id_str": "928593294023675904",
+			"text": "How do you stay on-task during the day? Do you use an app, lists, a scheduler? #smallbiz #biztip #b2b #b2c https://t.co/iOK1LtWf5U",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "smallbiz",
+						"indices": [
+							79,
+							88
+						]
+					},
+					{
+						"text": "biztip",
+						"indices": [
+							89,
+							96
+						]
+					},
+					{
+						"text": "b2b",
+						"indices": [
+							97,
+							101
+						]
+					},
+					{
+						"text": "b2c",
+						"indices": [
+							102,
+							106
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [],
+				"media": [
+					{
+						"id": 928593291255386100,
+						"id_str": "928593291255386112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DOMGrbIWkAA0e_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOMGrbIWkAA0e_-.jpg",
+						"url": "https://t.co/iOK1LtWf5U",
+						"display_url": "pic.twitter.com/iOK1LtWf5U",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928593294023675904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928593291255386100,
+						"id_str": "928593291255386112",
+						"indices": [
+							107,
+							130
+						],
+						"media_url": "http://pbs.twimg.com/media/DOMGrbIWkAA0e_-.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOMGrbIWkAA0e_-.jpg",
+						"url": "https://t.co/iOK1LtWf5U",
+						"display_url": "pic.twitter.com/iOK1LtWf5U",
+						"expanded_url": "https://twitter.com/tarragonstudios/status/928593294023675904/photo/1",
+						"type": "photo",
+						"sizes": {
+							"medium": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 340,
+								"resize": "fit"
+							},
+							"large": {
+								"w": 1024,
+								"h": 512,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://smarterqueue.com\" rel=\"nofollow\">SmarterQueue</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 3368081679,
+				"id_str": "3368081679",
+				"name": "Samantha McHone",
+				"screen_name": "tarragonstudios",
+				"location": "",
+				"description": "Brand Strategist | Graphic Designer | Website Builder - Ready to spice up your brand? \nhttps://t.co/B65DyyPlnC",
+				"url": "https://t.co/B65DyyPlnC",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/B65DyyPlnC",
+								"expanded_url": "http://www.tarragonstudios.com/find-your-profitable-business-idea",
+								"display_url": "tarragonstudios.com/find-your-prof…",
+								"indices": [
+									87,
+									110
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 634,
+				"friends_count": 606,
+				"listed_count": 123,
+				"created_at": "Thu Jul 09 18:54:35 +0000 2015",
+				"favourites_count": 802,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 1688,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "000000",
+				"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/906487753868681217/GXklLIKO_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/3368081679/1507535391",
+				"profile_link_color": "B66A2C",
+				"profile_sidebar_border_color": "000000",
+				"profile_sidebar_fill_color": "000000",
+				"profile_text_color": "000000",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 1,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 10:36:16 +0000 2017",
+		"id": 928571936132816900,
+		"id_str": "928571936132816896",
+		"text": "RT @JonesDesignCo: A DIY pillow inspired by the new Magnolia Hearth + Hand line https://t.co/lUkElQSByz",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "JonesDesignCo",
+					"name": "emily",
+					"id": 297749992,
+					"id_str": "297749992",
+					"indices": [
+						3,
+						17
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/lUkElQSByz",
+					"expanded_url": "http://ift.tt/2jcJ4JW",
+					"display_url": "ift.tt/2jcJ4JW",
+					"indices": [
+						80,
+						103
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 10:34:34 +0000 2017",
+			"id": 928571508376723500,
+			"id_str": "928571508376723456",
+			"text": "A DIY pillow inspired by the new Magnolia Hearth + Hand line https://t.co/lUkElQSByz",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/lUkElQSByz",
+						"expanded_url": "http://ift.tt/2jcJ4JW",
+						"display_url": "ift.tt/2jcJ4JW",
+						"indices": [
+							61,
+							84
+						]
+					}
+				]
+			},
+			"source": "<a href=\"https://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 297749992,
+				"id_str": "297749992",
+				"name": "emily",
+				"screen_name": "JonesDesignCo",
+				"location": "",
+				"description": "",
+				"url": "http://t.co/kdRFUDY3PF",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "http://t.co/kdRFUDY3PF",
+								"expanded_url": "http://jonesdesigncompany.com",
+								"display_url": "jonesdesigncompany.com",
+								"indices": [
+									0,
+									22
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": []
+					}
+				},
+				"protected": false,
+				"followers_count": 1738,
+				"friends_count": 25,
+				"listed_count": 29,
+				"created_at": "Fri May 13 01:44:20 +0000 2011",
+				"favourites_count": 82,
+				"utc_offset": -28800,
+				"time_zone": "Pacific Time (US & Canada)",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 2711,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000103888669/c36f02d6f5986b014395abcfb5a1c7c0.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000103888669/c36f02d6f5986b014395abcfb5a1c7c0.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/606508654230142976/Oq4KZUbK_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/606508654230142976/Oq4KZUbK_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/297749992/1382984221",
+				"profile_link_color": "000000",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "DDEEF6",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 3,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 08:20:49 +0000 2017",
+		"id": 928537848965402600,
+		"id_str": "928537848965402624",
+		"text": "RT @marianney: Dear Marianne // 04 https://t.co/MtyEABIidS",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/MtyEABIidS",
+					"expanded_url": "http://bit.ly/1pwUI9o",
+					"display_url": "bit.ly/1pwUI9o",
+					"indices": [
+						35,
+						58
+					]
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 08:16:42 +0000 2017",
+			"id": 928536812158513200,
+			"id_str": "928536812158513152",
+			"text": "Dear Marianne // 04 https://t.co/MtyEABIidS",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/MtyEABIidS",
+						"expanded_url": "http://bit.ly/1pwUI9o",
+						"display_url": "bit.ly/1pwUI9o",
+						"indices": [
+							20,
+							43
+						]
+					}
+				]
+			},
+			"source": "<a href=\"http://www.leavingworkbehind.com\" rel=\"nofollow\">Evergreen Post Tweeter</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 1,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 1,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 01:29:24 +0000 2017",
+		"id": 928434312852189200,
+		"id_str": "928434312852189184",
+		"text": "RT @marianney: How to launch your profitable online course &amp; business -FREE Summit! https://t.co/khq5r41KcC https://t.co/GSGLSVK26P",
+		"truncated": false,
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "marianney",
+					"name": "Marianne // DYOB",
+					"id": 17410681,
+					"id_str": "17410681",
+					"indices": [
+						3,
+						13
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/khq5r41KcC",
+					"expanded_url": "https://buff.ly/2yIiQWO",
+					"display_url": "buff.ly/2yIiQWO",
+					"indices": [
+						88,
+						111
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 928431200846434300,
+					"id_str": "928431200846434304",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+					"url": "https://t.co/GSGLSVK26P",
+					"display_url": "pic.twitter.com/GSGLSVK26P",
+					"expanded_url": "https://twitter.com/marianney/status/928431207892815872/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928431207892815900,
+					"source_status_id_str": "928431207892815872",
+					"source_user_id": 17410681,
+					"source_user_id_str": "17410681"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928431200846434300,
+					"id_str": "928431200846434304",
+					"indices": [
+						112,
+						135
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+					"url": "https://t.co/GSGLSVK26P",
+					"display_url": "pic.twitter.com/GSGLSVK26P",
+					"expanded_url": "https://twitter.com/marianney/status/928431207892815872/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928431207892815900,
+					"source_status_id_str": "928431207892815872",
+					"source_user_id": 17410681,
+					"source_user_id_str": "17410681",
+					"video_info": {
+						"aspect_ratio": [
+							300,
+							157
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/DOJzQhTXUAAC6Dy.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 01:17:04 +0000 2017",
+			"id": 928431207892815900,
+			"id_str": "928431207892815872",
+			"text": "How to launch your profitable online course &amp; business -FREE Summit! https://t.co/khq5r41KcC https://t.co/GSGLSVK26P",
+			"truncated": false,
+			"entities": {
+				"hashtags": [],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/khq5r41KcC",
+						"expanded_url": "https://buff.ly/2yIiQWO",
+						"display_url": "buff.ly/2yIiQWO",
+						"indices": [
+							73,
+							96
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928431200846434300,
+						"id_str": "928431200846434304",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+						"url": "https://t.co/GSGLSVK26P",
+						"display_url": "pic.twitter.com/GSGLSVK26P",
+						"expanded_url": "https://twitter.com/marianney/status/928431207892815872/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928431200846434300,
+						"id_str": "928431200846434304",
+						"indices": [
+							97,
+							120
+						],
+						"media_url": "http://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+						"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/DOJzQhTXUAAC6Dy.jpg",
+						"url": "https://t.co/GSGLSVK26P",
+						"display_url": "pic.twitter.com/GSGLSVK26P",
+						"expanded_url": "https://twitter.com/marianney/status/928431207892815872/photo/1",
+						"type": "animated_gif",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							}
+						},
+						"video_info": {
+							"aspect_ratio": [
+								300,
+								157
+							],
+							"variants": [
+								{
+									"bitrate": 0,
+									"content_type": "video/mp4",
+									"url": "https://video.twimg.com/tweet_video/DOJzQhTXUAAC6Dy.mp4"
+								}
+							]
+						}
+					}
+				]
+			},
+			"source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 17410681,
+				"id_str": "17410681",
+				"name": "Marianne // DYOB",
+				"screen_name": "marianney",
+				"location": "Puntarenas, Costa Rica",
+				"description": "I teach + inspire creative solopreneurs how to make their blogs more beautiful. Mom. Married to @ifitnessvida. CSS for Bloggers 48% off: https://t.co/HLiSAkz2Wu",
+				"url": "https://t.co/wftZlwvgZV",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/wftZlwvgZV",
+								"expanded_url": "http://www.designyourownblog.com/startablog",
+								"display_url": "designyourownblog.com/startablog",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/HLiSAkz2Wu",
+								"expanded_url": "http://crushcss.com",
+								"display_url": "crushcss.com",
+								"indices": [
+									137,
+									160
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 8515,
+				"friends_count": 7411,
+				"listed_count": 545,
+				"created_at": "Sat Nov 15 17:59:44 +0000 2008",
+				"favourites_count": 11287,
+				"utc_offset": -21600,
+				"time_zone": "America/Costa_Rica",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 34051,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFFFFF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000095188105/58cf1e0f5eb66f7ffd6ae92ce2e1014f.png",
+				"profile_background_tile": true,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/630682816552923136/p1bdCvz2_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/17410681/1439201750",
+				"profile_link_color": "26D1C3",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFFFFF",
+				"profile_text_color": "333333",
+				"profile_use_background_image": true,
+				"has_extended_profile": true,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "regular"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
+		"created_at": "Thu Nov 09 01:09:20 +0000 2017",
+		"id": 928429262352388100,
+		"id_str": "928429262352388098",
+		"text": "RT @bluchic: Don't be afraid of switching your #WordPress theme. You can do this! https://t.co/SKfBJWPSkt https://t.co/TPjG7OPMxs",
+		"truncated": false,
+		"entities": {
+			"hashtags": [
+				{
+					"text": "WordPress",
+					"indices": [
+						47,
+						57
+					]
+				}
+			],
+			"symbols": [],
+			"user_mentions": [
+				{
+					"screen_name": "bluchic",
+					"name": "Bluchic",
+					"id": 377196474,
+					"id_str": "377196474",
+					"indices": [
+						3,
+						11
+					]
+				}
+			],
+			"urls": [
+				{
+					"url": "https://t.co/SKfBJWPSkt",
+					"expanded_url": "http://bit.ly/1UUqOdU",
+					"display_url": "bit.ly/1UUqOdU",
+					"indices": [
+						82,
+						105
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 928429038066196500,
+					"id_str": "928429038066196480",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+					"url": "https://t.co/TPjG7OPMxs",
+					"display_url": "pic.twitter.com/TPjG7OPMxs",
+					"expanded_url": "https://twitter.com/bluchic/status/928429041018916866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928429041018916900,
+					"source_status_id_str": "928429041018916866",
+					"source_user_id": 377196474,
+					"source_user_id_str": "377196474"
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 928429038066196500,
+					"id_str": "928429038066196480",
+					"indices": [
+						106,
+						129
+					],
+					"media_url": "http://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+					"url": "https://t.co/TPjG7OPMxs",
+					"display_url": "pic.twitter.com/TPjG7OPMxs",
+					"expanded_url": "https://twitter.com/bluchic/status/928429041018916866/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 628,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 356,
+							"resize": "fit"
+						}
+					},
+					"source_status_id": 928429041018916900,
+					"source_status_id_str": "928429041018916866",
+					"source_user_id": 377196474,
+					"source_user_id_str": "377196474"
+				}
+			]
+		},
+		"source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "SingleMama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #interiors #handmade #solopreneur #webdesign",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1247,
+			"friends_count": 1059,
+			"listed_count": 425,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": -18000,
+			"time_zone": "Eastern Time (US & Canada)",
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 21009,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"retweeted_status": {
+			"created_at": "Thu Nov 09 01:08:27 +0000 2017",
+			"id": 928429041018916900,
+			"id_str": "928429041018916866",
+			"text": "Don't be afraid of switching your #WordPress theme. You can do this! https://t.co/SKfBJWPSkt https://t.co/TPjG7OPMxs",
+			"truncated": false,
+			"entities": {
+				"hashtags": [
+					{
+						"text": "WordPress",
+						"indices": [
+							34,
+							44
+						]
+					}
+				],
+				"symbols": [],
+				"user_mentions": [],
+				"urls": [
+					{
+						"url": "https://t.co/SKfBJWPSkt",
+						"expanded_url": "http://bit.ly/1UUqOdU",
+						"display_url": "bit.ly/1UUqOdU",
+						"indices": [
+							69,
+							92
+						]
+					}
+				],
+				"media": [
+					{
+						"id": 928429038066196500,
+						"id_str": "928429038066196480",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+						"url": "https://t.co/TPjG7OPMxs",
+						"display_url": "pic.twitter.com/TPjG7OPMxs",
+						"expanded_url": "https://twitter.com/bluchic/status/928429041018916866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"extended_entities": {
+				"media": [
+					{
+						"id": 928429038066196500,
+						"id_str": "928429038066196480",
+						"indices": [
+							93,
+							116
+						],
+						"media_url": "http://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+						"media_url_https": "https://pbs.twimg.com/media/DOJxSoUX4AAdGHu.jpg",
+						"url": "https://t.co/TPjG7OPMxs",
+						"display_url": "pic.twitter.com/TPjG7OPMxs",
+						"expanded_url": "https://twitter.com/bluchic/status/928429041018916866/photo/1",
+						"type": "photo",
+						"sizes": {
+							"large": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"thumb": {
+								"w": 150,
+								"h": 150,
+								"resize": "crop"
+							},
+							"medium": {
+								"w": 1200,
+								"h": 628,
+								"resize": "fit"
+							},
+							"small": {
+								"w": 680,
+								"h": 356,
+								"resize": "fit"
+							}
+						}
+					}
+				]
+			},
+			"source": "<a href=\"https://recurpost.com\" rel=\"nofollow\">Recycle Updates</a>",
+			"in_reply_to_status_id": null,
+			"in_reply_to_status_id_str": null,
+			"in_reply_to_user_id": null,
+			"in_reply_to_user_id_str": null,
+			"in_reply_to_screen_name": null,
+			"user": {
+				"id": 377196474,
+				"id_str": "377196474",
+				"name": "Bluchic",
+				"screen_name": "bluchic",
+				"location": "",
+				"description": "We create feminine WordPress Themes for female entrepreneurs & bloggers going from hobby to serious business. 💁🏻 Get free themes https://t.co/sOIPuFpkOR",
+				"url": "https://t.co/yndfCLZj7g",
+				"entities": {
+					"url": {
+						"urls": [
+							{
+								"url": "https://t.co/yndfCLZj7g",
+								"expanded_url": "http://www.bluchic.com",
+								"display_url": "bluchic.com",
+								"indices": [
+									0,
+									23
+								]
+							}
+						]
+					},
+					"description": {
+						"urls": [
+							{
+								"url": "https://t.co/sOIPuFpkOR",
+								"expanded_url": "http://www.bluchic.com/freebies",
+								"display_url": "bluchic.com/freebies",
+								"indices": [
+									129,
+									152
+								]
+							}
+						]
+					}
+				},
+				"protected": false,
+				"followers_count": 1818,
+				"friends_count": 477,
+				"listed_count": 134,
+				"created_at": "Wed Sep 21 05:28:22 +0000 2011",
+				"favourites_count": 519,
+				"utc_offset": 28800,
+				"time_zone": "Kuala Lumpur",
+				"geo_enabled": false,
+				"verified": false,
+				"statuses_count": 4400,
+				"lang": "en",
+				"contributors_enabled": false,
+				"is_translator": false,
+				"is_translation_enabled": false,
+				"profile_background_color": "FFF2EF",
+				"profile_background_image_url": "http://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/838859493/f29dea4e3873ddaca970385fc4151752.jpeg",
+				"profile_background_tile": false,
+				"profile_image_url": "http://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_image_url_https": "https://pbs.twimg.com/profile_images/795184269731577858/BiHavIOx_normal.jpg",
+				"profile_banner_url": "https://pbs.twimg.com/profile_banners/377196474/1478445245",
+				"profile_link_color": "EB556B",
+				"profile_sidebar_border_color": "FFFFFF",
+				"profile_sidebar_fill_color": "FFF5F7",
+				"profile_text_color": "1F1F1F",
+				"profile_use_background_image": false,
+				"has_extended_profile": false,
+				"default_profile": false,
+				"default_profile_image": false,
+				"following": true,
+				"follow_request_sent": false,
+				"notifications": false,
+				"translator_type": "none"
+			},
+			"geo": null,
+			"coordinates": null,
+			"place": null,
+			"contributors": null,
+			"is_quote_status": false,
+			"retweet_count": 2,
+			"favorite_count": 0,
+			"favorited": false,
+			"retweeted": true,
+			"possibly_sensitive": false,
+			"lang": "en"
+		},
+		"is_quote_status": false,
+		"retweet_count": 2,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": true,
+		"possibly_sensitive": false,
+		"lang": "en"
+	},
+	{
 		"created_at": "Wed Nov 08 23:34:00 +0000 2017",
 		"id": 928405270681849900,
 		"id_str": "928405270681849860",
