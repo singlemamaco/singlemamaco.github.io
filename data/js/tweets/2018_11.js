@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2018_11 = 
 [
 	{
+		"created_at": "Fri Nov 09 00:01:43 +0000 2018",
+		"id": 1060683817210404900,
+		"id_str": "1060683817210404864",
+		"full_text": "Track Your Progress Toward Your Bigger Goals https://t.co/qQTkaMQm4C https://t.co/otwVsz9IBN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			68
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qQTkaMQm4C",
+					"expanded_url": "http://dlvr.it/Qqp7CD",
+					"display_url": "dlvr.it/Qqp7CD",
+					"indices": [
+						45,
+						68
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060683815469740000,
+					"id_str": "1060683815469740032",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhOT3gUcAATiDo.png",
+					"media_url_https": "https://pbs.twimg.com/media/DrhOT3gUcAATiDo.png",
+					"url": "https://t.co/otwVsz9IBN",
+					"display_url": "pic.twitter.com/otwVsz9IBN",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060683817210404864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060683815469740000,
+					"id_str": "1060683815469740032",
+					"indices": [
+						69,
+						92
+					],
+					"media_url": "http://pbs.twimg.com/media/DrhOT3gUcAATiDo.png",
+					"media_url_https": "https://pbs.twimg.com/media/DrhOT3gUcAATiDo.png",
+					"url": "https://t.co/otwVsz9IBN",
+					"display_url": "pic.twitter.com/otwVsz9IBN",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060683817210404864/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 300,
+							"h": 212,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 1131,
+			"listed_count": 408,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Track Your Progress Toward Your Bigger Goals https://t.co/qQTkaMQm4C https://t.co/otwVsz9IBN"
+	},
+	{
+		"created_at": "Thu Nov 08 17:05:50 +0000 2018",
+		"id": 1060579159146000400,
+		"id_str": "1060579159146000384",
+		"full_text": "This Is the Average FICO Credit Score in the U.S. https://t.co/0DFQWXjS83 https://t.co/Q4UQdKv7Ku",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			73
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0DFQWXjS83",
+					"expanded_url": "http://dlvr.it/QqmgCL",
+					"display_url": "dlvr.it/QqmgCL",
+					"indices": [
+						50,
+						73
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060579157090811900,
+					"id_str": "1060579157090811904",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DrfvH8qUwAA3aKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrfvH8qUwAA3aKW.jpg",
+					"url": "https://t.co/Q4UQdKv7Ku",
+					"display_url": "pic.twitter.com/Q4UQdKv7Ku",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060579159146000384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060579157090811900,
+					"id_str": "1060579157090811904",
+					"indices": [
+						74,
+						97
+					],
+					"media_url": "http://pbs.twimg.com/media/DrfvH8qUwAA3aKW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrfvH8qUwAA3aKW.jpg",
+					"url": "https://t.co/Q4UQdKv7Ku",
+					"display_url": "pic.twitter.com/Q4UQdKv7Ku",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060579159146000384/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 427,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 1131,
+			"listed_count": 408,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Is the Average FICO Credit Score in the U.S. https://t.co/0DFQWXjS83 https://t.co/Q4UQdKv7Ku"
+	},
+	{
+		"created_at": "Thu Nov 08 02:14:49 +0000 2018",
+		"id": 1060354924737753100,
+		"id_str": "1060354924737753090",
+		"full_text": "Top 3 Marketing Tools for 2019 (Part 2) https://t.co/qJYMlQ5ICS https://t.co/G1xXEy6BJg",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			63
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qJYMlQ5ICS",
+					"expanded_url": "http://dlvr.it/QqjrJG",
+					"display_url": "dlvr.it/QqjrJG",
+					"indices": [
+						40,
+						63
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1060354923202662400,
+					"id_str": "1060354923202662402",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DrcjL0VU0AIaW0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrcjL0VU0AIaW0Y.jpg",
+					"url": "https://t.co/G1xXEy6BJg",
+					"display_url": "pic.twitter.com/G1xXEy6BJg",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060354924737753090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1060354923202662400,
+					"id_str": "1060354923202662402",
+					"indices": [
+						64,
+						87
+					],
+					"media_url": "http://pbs.twimg.com/media/DrcjL0VU0AIaW0Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DrcjL0VU0AIaW0Y.jpg",
+					"url": "https://t.co/G1xXEy6BJg",
+					"display_url": "pic.twitter.com/G1xXEy6BJg",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1060354924737753090/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 600,
+							"h": 400,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1133,
+			"friends_count": 1131,
+			"listed_count": 408,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 143,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22870,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 2,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Top 3 Marketing Tools for 2019 (Part 2) https://t.co/qJYMlQ5ICS https://t.co/G1xXEy6BJg"
+	},
+	{
 		"created_at": "Thu Nov 08 00:00:36 +0000 2018",
 		"id": 1060321149693771800,
 		"id_str": "1060321149693771777",
