@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2018_12 = 
 [
 	{
+		"created_at": "Sun Dec 09 20:43:36 +0000 2018",
+		"id": 1071867983553683500,
+		"id_str": "1071867983553683456",
+		"full_text": "Foodie Friday: Prawn sliders https://t.co/7Sa6GeGLjc https://t.co/yicZcZslEP",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			52
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/7Sa6GeGLjc",
+					"expanded_url": "http://dlvr.it/QtDHtV",
+					"display_url": "dlvr.it/QtDHtV",
+					"indices": [
+						29,
+						52
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071867981339082800,
+					"id_str": "1071867981339082753",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DuAKQAHUwAEd1RU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuAKQAHUwAEd1RU.jpg",
+					"url": "https://t.co/yicZcZslEP",
+					"display_url": "pic.twitter.com/yicZcZslEP",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071867983553683456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071867981339082800,
+					"id_str": "1071867981339082753",
+					"indices": [
+						53,
+						76
+					],
+					"media_url": "http://pbs.twimg.com/media/DuAKQAHUwAEd1RU.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DuAKQAHUwAEd1RU.jpg",
+					"url": "https://t.co/yicZcZslEP",
+					"display_url": "pic.twitter.com/yicZcZslEP",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071867983553683456/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 640,
+							"h": 425,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1119,
+			"friends_count": 1131,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Foodie Friday: Prawn sliders https://t.co/7Sa6GeGLjc https://t.co/yicZcZslEP"
+	},
+	{
+		"created_at": "Sun Dec 09 03:20:05 +0000 2018",
+		"id": 1071605373709168600,
+		"id_str": "1071605373709168642",
+		"full_text": "Why Brands Are Crucial To Innovation https://t.co/AVwfx0mEc2 https://t.co/pnCX26i0HF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AVwfx0mEc2",
+					"expanded_url": "http://dlvr.it/Qt9qGr",
+					"display_url": "dlvr.it/Qt9qGr",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071605371851010000,
+					"id_str": "1071605371851010051",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt8baHiUcAM38_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt8baHiUcAM38_Z.jpg",
+					"url": "https://t.co/pnCX26i0HF",
+					"display_url": "pic.twitter.com/pnCX26i0HF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071605373709168642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071605371851010000,
+					"id_str": "1071605371851010051",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt8baHiUcAM38_Z.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt8baHiUcAM38_Z.jpg",
+					"url": "https://t.co/pnCX26i0HF",
+					"display_url": "pic.twitter.com/pnCX26i0HF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071605373709168642/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 600,
+							"h": 365,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1119,
+			"friends_count": 1131,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Why Brands Are Crucial To Innovation https://t.co/AVwfx0mEc2 https://t.co/pnCX26i0HF"
+	},
+	{
+		"created_at": "Sun Dec 09 00:57:38 +0000 2018",
+		"id": 1071569527685697500,
+		"id_str": "1071569527685697537",
+		"full_text": "Browser Diversity Commentary, Regarding the Edge News https://t.co/2JSD9BmxBf https://t.co/15VJxK3uil",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/2JSD9BmxBf",
+					"expanded_url": "http://dlvr.it/Qt9Z59",
+					"display_url": "dlvr.it/Qt9Z59",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1071569525793992700,
+					"id_str": "1071569525793992704",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt76zmkVsAAlV2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt76zmkVsAAlV2Y.jpg",
+					"url": "https://t.co/15VJxK3uil",
+					"display_url": "pic.twitter.com/15VJxK3uil",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071569527685697537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1071569525793992700,
+					"id_str": "1071569525793992704",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/Dt76zmkVsAAlV2Y.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dt76zmkVsAAlV2Y.jpg",
+					"url": "https://t.co/15VJxK3uil",
+					"display_url": "pic.twitter.com/15VJxK3uil",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1071569527685697537/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 512,
+							"h": 512,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1119,
+			"friends_count": 1131,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 22961,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Browser Diversity Commentary, Regarding the Edge News https://t.co/2JSD9BmxBf https://t.co/15VJxK3uil"
+	},
+	{
 		"created_at": "Sat Dec 08 20:42:34 +0000 2018",
 		"id": 1071505335825784800,
 		"id_str": "1071505335825784832",
