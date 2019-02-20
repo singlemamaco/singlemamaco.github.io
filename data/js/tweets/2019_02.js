@@ -1,6 +1,558 @@
 Grailbird.data.tweets_2019_02 = 
 [
 	{
+		"created_at": "Tue Feb 19 20:34:34 +0000 2019",
+		"id": 1097957636836753400,
+		"id_str": "1097957636836753408",
+		"full_text": "How Our Favourite Celebrities Celebrated Valentine’s Day https://t.co/h18QYi67Ok https://t.co/VpoOXPeYp9",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			80
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/h18QYi67Ok",
+					"expanded_url": "http://dlvr.it/QzFbtX",
+					"display_url": "dlvr.it/QzFbtX",
+					"indices": [
+						57,
+						80
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097957634861195300,
+					"id_str": "1097957634861195264",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzy6ptRUYAAFMxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzy6ptRUYAAFMxr.jpg",
+					"url": "https://t.co/VpoOXPeYp9",
+					"display_url": "pic.twitter.com/VpoOXPeYp9",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097957636836753408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097957634861195300,
+					"id_str": "1097957634861195264",
+					"indices": [
+						81,
+						104
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzy6ptRUYAAFMxr.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzy6ptRUYAAFMxr.jpg",
+					"url": "https://t.co/VpoOXPeYp9",
+					"display_url": "pic.twitter.com/VpoOXPeYp9",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097957636836753408/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 280,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1109,
+			"friends_count": 1130,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "How Our Favourite Celebrities Celebrated Valentine’s Day https://t.co/h18QYi67Ok https://t.co/VpoOXPeYp9"
+	},
+	{
+		"created_at": "Tue Feb 19 03:15:32 +0000 2019",
+		"id": 1097696157961117700,
+		"id_str": "1097696157961117697",
+		"full_text": "A Monday List of Really Good Things. https://t.co/8S3kuEmx5l https://t.co/mhQagu5vdq",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			60
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/8S3kuEmx5l",
+					"expanded_url": "http://dlvr.it/QzBYRH",
+					"display_url": "dlvr.it/QzBYRH",
+					"indices": [
+						37,
+						60
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097696155184459800,
+					"id_str": "1097696155184459776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DzvM1lkU8AA3pi4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzvM1lkU8AA3pi4.jpg",
+					"url": "https://t.co/mhQagu5vdq",
+					"display_url": "pic.twitter.com/mhQagu5vdq",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097696157961117697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097696155184459800,
+					"id_str": "1097696155184459776",
+					"indices": [
+						61,
+						84
+					],
+					"media_url": "http://pbs.twimg.com/media/DzvM1lkU8AA3pi4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/DzvM1lkU8AA3pi4.jpg",
+					"url": "https://t.co/mhQagu5vdq",
+					"display_url": "pic.twitter.com/mhQagu5vdq",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097696157961117697/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 800,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1650,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 453,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1109,
+			"friends_count": 1130,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Monday List of Really Good Things. https://t.co/8S3kuEmx5l https://t.co/mhQagu5vdq"
+	},
+	{
+		"created_at": "Tue Feb 19 02:07:33 +0000 2019",
+		"id": 1097679047113334800,
+		"id_str": "1097679047113334784",
+		"full_text": "Reader Favorites: The Best True Crime Podcasts. https://t.co/pDgI7fKvkW https://t.co/VF4Qs6HrSc",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/pDgI7fKvkW",
+					"expanded_url": "http://dlvr.it/QzBR9k",
+					"display_url": "dlvr.it/QzBR9k",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1097679045049737200,
+					"id_str": "1097679045049737217",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzu9RpWUYAE4Fij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzu9RpWUYAE4Fij.jpg",
+					"url": "https://t.co/VF4Qs6HrSc",
+					"display_url": "pic.twitter.com/VF4Qs6HrSc",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097679047113334784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1097679045049737200,
+					"id_str": "1097679045049737217",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/Dzu9RpWUYAE4Fij.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Dzu9RpWUYAE4Fij.jpg",
+					"url": "https://t.co/VF4Qs6HrSc",
+					"display_url": "pic.twitter.com/VF4Qs6HrSc",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1097679047113334784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1100,
+							"h": 1661,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 450,
+							"h": 680,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 795,
+							"h": 1200,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #webdesign #architecture #typography #interiordesign #socialmedia",
+			"url": "https://t.co/87Uuz3LtL6",
+			"entities": {
+				"url": {
+					"urls": [
+						{
+							"url": "https://t.co/87Uuz3LtL6",
+							"expanded_url": "http://singlemamadesignco.com",
+							"display_url": "singlemamadesignco.com",
+							"indices": [
+								0,
+								23
+							]
+						}
+					]
+				},
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1109,
+			"friends_count": 1130,
+			"listed_count": 406,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 142,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23173,
+			"lang": "en",
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reader Favorites: The Best True Crime Podcasts. https://t.co/pDgI7fKvkW https://t.co/VF4Qs6HrSc"
+	},
+	{
 		"created_at": "Mon Feb 18 20:34:05 +0000 2019",
 		"id": 1097595128212992000,
 		"id_str": "1097595128212992000",
