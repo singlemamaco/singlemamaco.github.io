@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_10 = 
 [
 	{
+		"created_at": "Thu Oct 31 18:13:04 +0000 2019",
+		"id": 1189968547209830400,
+		"id_str": "1189968547209830400",
+		"full_text": "Our Favorite Picks From the 2019 WestEdge Design Fair https://t.co/VdjwZf9MAA https://t.co/zEubA3X72O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			77
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VdjwZf9MAA",
+					"expanded_url": "http://dlvr.it/RHMGCb",
+					"display_url": "dlvr.it/RHMGCb",
+					"indices": [
+						54,
+						77
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189968544739532800,
+					"id_str": "1189968544739532800",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOeFjMWoAAcgOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOeFjMWoAAcgOw.jpg",
+					"url": "https://t.co/zEubA3X72O",
+					"display_url": "pic.twitter.com/zEubA3X72O",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1189968547209830400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189968544739532800,
+					"id_str": "1189968544739532800",
+					"indices": [
+						78,
+						101
+					],
+					"media_url": "http://pbs.twimg.com/media/EIOeFjMWoAAcgOw.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EIOeFjMWoAAcgOw.jpg",
+					"url": "https://t.co/zEubA3X72O",
+					"display_url": "pic.twitter.com/zEubA3X72O",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1189968547209830400/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061,
+			"friends_count": 1114,
+			"listed_count": 390,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Our Favorite Picks From the 2019 WestEdge Design Fair https://t.co/VdjwZf9MAA https://t.co/zEubA3X72O"
+	},
+	{
+		"created_at": "Thu Oct 31 15:09:04 +0000 2019",
+		"id": 1189922241879789600,
+		"id_str": "1189922241879789568",
+		"full_text": "Nanatsuji – Seven Ways by Sasaki Architecture https://t.co/BjlIbLr9Ml https://t.co/Lhx6VMIe9q",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/BjlIbLr9Ml",
+					"expanded_url": "http://dlvr.it/RHLdWz",
+					"display_url": "dlvr.it/RHLdWz",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1189922239321432000,
+					"id_str": "1189922239321432064",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EINz-OEXYAA0Sdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINz-OEXYAA0Sdh.jpg",
+					"url": "https://t.co/Lhx6VMIe9q",
+					"display_url": "pic.twitter.com/Lhx6VMIe9q",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1189922241879789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 81,
+									"h": 463,
+									"w": 463
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 43,
+									"h": 245,
+									"w": 245
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 81,
+									"h": 463,
+									"w": 463
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 75,
+									"h": 434,
+									"w": 434
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1189922239321432000,
+					"id_str": "1189922239321432064",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/EINz-OEXYAA0Sdh.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EINz-OEXYAA0Sdh.jpg",
+					"url": "https://t.co/Lhx6VMIe9q",
+					"display_url": "pic.twitter.com/Lhx6VMIe9q",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1189922241879789568/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 81,
+									"h": 463,
+									"w": 463
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 96,
+									"y": 43,
+									"h": 245,
+									"w": 245
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 181,
+									"y": 81,
+									"h": 463,
+									"w": 463
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 169,
+									"y": 75,
+									"h": 434,
+									"w": 434
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1061,
+			"friends_count": 1114,
+			"listed_count": 390,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23394,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "lt",
+		"text": "Nanatsuji – Seven Ways by Sasaki Architecture https://t.co/BjlIbLr9Ml https://t.co/Lhx6VMIe9q"
+	},
+	{
 		"created_at": "Wed Oct 30 18:11:05 +0000 2019",
 		"id": 1189605658334617600,
 		"id_str": "1189605658334617600",
