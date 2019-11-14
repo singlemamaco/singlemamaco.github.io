@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 13 20:14:04 +0000 2019",
+		"id": 1194710039186923500,
+		"id_str": "1194710039186923520",
+		"full_text": "Custom Pet Portraits From Jo Chambers https://t.co/NblIhdz3vK https://t.co/UYqeBauHxG",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/NblIhdz3vK",
+					"expanded_url": "http://dlvr.it/RJD8v0",
+					"display_url": "dlvr.it/RJD8v0",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194710036410355700,
+					"id_str": "1194710036410355712",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EJR2csHVUAAPHCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJR2csHVUAAPHCO.jpg",
+					"url": "https://t.co/UYqeBauHxG",
+					"display_url": "pic.twitter.com/UYqeBauHxG",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1194710039186923520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 406,
+									"h": 683,
+									"w": 683
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 192,
+									"y": 313,
+									"h": 527,
+									"w": 527
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 406,
+									"h": 683,
+									"w": 683
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 177,
+									"h": 298,
+									"w": 298
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194710036410355700,
+					"id_str": "1194710036410355712",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EJR2csHVUAAPHCO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJR2csHVUAAPHCO.jpg",
+					"url": "https://t.co/UYqeBauHxG",
+					"display_url": "pic.twitter.com/UYqeBauHxG",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1194710039186923520/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1555,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 988,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 560,
+							"h": 680,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 406,
+									"h": 683,
+									"w": 683
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 192,
+									"y": 313,
+									"h": 527,
+									"w": 527
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 250,
+									"y": 406,
+									"h": 683,
+									"w": 683
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 109,
+									"y": 177,
+									"h": 298,
+									"w": 298
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1115,
+			"listed_count": 389,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Custom Pet Portraits From Jo Chambers https://t.co/NblIhdz3vK https://t.co/UYqeBauHxG"
+	},
+	{
+		"created_at": "Wed Nov 13 16:59:02 +0000 2019",
+		"id": 1194660957542183000,
+		"id_str": "1194660957542182917",
+		"full_text": "Cri Cri: A Wireless, Rechargeable Outdoor Lamp From Foscarini https://t.co/GgI9rq4qqc https://t.co/zDi3vroDw8",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			85
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GgI9rq4qqc",
+					"expanded_url": "http://dlvr.it/RJCY6L",
+					"display_url": "dlvr.it/RJCY6L",
+					"indices": [
+						62,
+						85
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1194660955730276400,
+					"id_str": "1194660955730276352",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRJz0VU8AAyndf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRJz0VU8AAyndf.jpg",
+					"url": "https://t.co/zDi3vroDw8",
+					"display_url": "pic.twitter.com/zDi3vroDw8",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1194660957542182917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1194660955730276400,
+					"id_str": "1194660955730276352",
+					"indices": [
+						86,
+						109
+					],
+					"media_url": "http://pbs.twimg.com/media/EJRJz0VU8AAyndf.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJRJz0VU8AAyndf.jpg",
+					"url": "https://t.co/zDi3vroDw8",
+					"display_url": "pic.twitter.com/zDi3vroDw8",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1194660957542182917/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1280,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 798,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1115,
+			"listed_count": 389,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23423,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cri Cri: A Wireless, Rechargeable Outdoor Lamp From Foscarini https://t.co/GgI9rq4qqc https://t.co/zDi3vroDw8"
+	},
+	{
 		"created_at": "Tue Nov 12 20:12:02 +0000 2019",
 		"id": 1194347137183568000,
 		"id_str": "1194347137183567872",
