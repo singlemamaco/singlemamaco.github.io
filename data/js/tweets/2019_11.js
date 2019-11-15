@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Thu Nov 14 20:18:02 +0000 2019",
+		"id": 1195073426098012200,
+		"id_str": "1195073426098012160",
+		"full_text": "The Model F by Luke Roberts Illuminates Where + How You Want https://t.co/g7ET2YNKF1 https://t.co/gJ2vMqbZqC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/g7ET2YNKF1",
+					"expanded_url": "http://dlvr.it/RJJ2z2",
+					"display_url": "dlvr.it/RJJ2z2",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195073423673659400,
+					"id_str": "1195073423673659392",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EJXA8nKUEAA-PwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJXA8nKUEAA-PwA.jpg",
+					"url": "https://t.co/gJ2vMqbZqC",
+					"display_url": "pic.twitter.com/gJ2vMqbZqC",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1195073426098012160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 657,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 980,
+									"y": 613,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 657,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 980,
+									"y": 613,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 544,
+									"y": 349,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 520,
+									"y": 325,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 960,
+									"y": 615,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 918,
+									"y": 574,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195073423673659400,
+					"id_str": "1195073423673659392",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/EJXA8nKUEAA-PwA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJXA8nKUEAA-PwA.jpg",
+					"url": "https://t.co/gJ2vMqbZqC",
+					"display_url": "pic.twitter.com/gJ2vMqbZqC",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1195073426098012160/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 840,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 446,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 657,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 980,
+									"y": 613,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1025,
+									"y": 657,
+									"h": 92,
+									"w": 92
+								},
+								{
+									"x": 980,
+									"y": 613,
+									"h": 110,
+									"w": 110
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 544,
+									"y": 349,
+									"h": 48,
+									"w": 48
+								},
+								{
+									"x": 520,
+									"y": 325,
+									"h": 58,
+									"w": 58
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 960,
+									"y": 615,
+									"h": 86,
+									"w": 86
+								},
+								{
+									"x": 918,
+									"y": 574,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1115,
+			"listed_count": 389,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Model F by Luke Roberts Illuminates Where + How You Want https://t.co/g7ET2YNKF1 https://t.co/gJ2vMqbZqC"
+	},
+	{
+		"created_at": "Thu Nov 14 17:00:06 +0000 2019",
+		"id": 1195023613113462800,
+		"id_str": "1195023613113462784",
+		"full_text": "The Minimalist Knowlton Residence in Quebec by TBA https://t.co/ffAvlveBFP https://t.co/oJKgupwakb",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/ffAvlveBFP",
+					"expanded_url": "http://dlvr.it/RJHPlB",
+					"display_url": "dlvr.it/RJHPlB",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1195023601323266000,
+					"id_str": "1195023601323266050",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EJWTokcU0AIJRrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJWTokcU0AIJRrW.jpg",
+					"url": "https://t.co/oJKgupwakb",
+					"display_url": "pic.twitter.com/oJKgupwakb",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1195023613113462784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1195023601323266000,
+					"id_str": "1195023601323266050",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EJWTokcU0AIJRrW.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EJWTokcU0AIJRrW.jpg",
+					"url": "https://t.co/oJKgupwakb",
+					"display_url": "pic.twitter.com/oJKgupwakb",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1195023613113462784/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1250,
+							"h": 851,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 463,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 817,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1060,
+			"friends_count": 1115,
+			"listed_count": 389,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23426,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Minimalist Knowlton Residence in Quebec by TBA https://t.co/ffAvlveBFP https://t.co/oJKgupwakb"
+	},
+	{
 		"created_at": "Wed Nov 13 20:14:04 +0000 2019",
 		"id": 1194710039186923500,
 		"id_str": "1194710039186923520",
