@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Tue Nov 26 19:57:33 +0000 2019",
+		"id": 1199416923387129900,
+		"id_str": "1199416923387129856",
+		"full_text": "Cristina Celestino Designs the Bangle Collection for Budri https://t.co/E29b39LNgh https://t.co/lPYkJCroCl",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			82
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/E29b39LNgh",
+					"expanded_url": "http://dlvr.it/RK8zSz",
+					"display_url": "dlvr.it/RK8zSz",
+					"indices": [
+						59,
+						82
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199416920224624600,
+					"id_str": "1199416920224624640",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUvVYuU8AAZM1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKUvVYuU8AAZM1l.jpg",
+					"url": "https://t.co/lPYkJCroCl",
+					"display_url": "pic.twitter.com/lPYkJCroCl",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199416923387129856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 606,
+									"y": 286,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1069,
+									"y": 506,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1141,
+									"y": 540,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1141,
+									"y": 540,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199416920224624600,
+					"id_str": "1199416920224624640",
+					"indices": [
+						83,
+						106
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUvVYuU8AAZM1l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKUvVYuU8AAZM1l.jpg",
+					"url": "https://t.co/lPYkJCroCl",
+					"display_url": "pic.twitter.com/lPYkJCroCl",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199416923387129856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 606,
+									"y": 286,
+									"h": 52,
+									"w": 52
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1069,
+									"y": 506,
+									"h": 91,
+									"w": 91
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1141,
+									"y": 540,
+									"h": 98,
+									"w": 98
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1141,
+									"y": 540,
+									"h": 98,
+									"w": 98
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1057,
+			"friends_count": 1115,
+			"listed_count": 386,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Cristina Celestino Designs the Bangle Collection for Budri https://t.co/E29b39LNgh https://t.co/lPYkJCroCl"
+	},
+	{
+		"created_at": "Tue Nov 26 16:58:03 +0000 2019",
+		"id": 1199371753199304700,
+		"id_str": "1199371753199304704",
+		"full_text": "Designers: Apply for WantedDesign’s 2020 Launch Pad https://t.co/6czmpiUgiK https://t.co/H2dXdH1m7d",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6czmpiUgiK",
+					"expanded_url": "http://dlvr.it/RK8Kxr",
+					"display_url": "dlvr.it/RK8Kxr",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199371751131472000,
+					"id_str": "1199371751131471872",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUGQMvUYAAnVG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKUGQMvUYAAnVG5.jpg",
+					"url": "https://t.co/H2dXdH1m7d",
+					"display_url": "pic.twitter.com/H2dXdH1m7d",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199371753199304704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199371751131472000,
+					"id_str": "1199371751131471872",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EKUGQMvUYAAnVG5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKUGQMvUYAAnVG5.jpg",
+					"url": "https://t.co/H2dXdH1m7d",
+					"display_url": "pic.twitter.com/H2dXdH1m7d",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199371753199304704/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1057,
+			"friends_count": 1115,
+			"listed_count": 386,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23458,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Designers: Apply for WantedDesign’s 2020 Launch Pad https://t.co/6czmpiUgiK https://t.co/H2dXdH1m7d"
+	},
+	{
 		"created_at": "Mon Nov 25 19:53:06 +0000 2019",
 		"id": 1199053415994646500,
 		"id_str": "1199053415994646528",
