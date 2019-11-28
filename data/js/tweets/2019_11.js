@@ -1,6 +1,512 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Wed Nov 27 19:58:03 +0000 2019",
+		"id": 1199779439824916500,
+		"id_str": "1199779439824916480",
+		"full_text": "The Ferrari Roma Grand Touring Coupe Sculpts Speed https://t.co/JjktbJRQR6 https://t.co/THVFNnWzZp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			74
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JjktbJRQR6",
+					"expanded_url": "http://dlvr.it/RKFL7z",
+					"display_url": "dlvr.it/RKFL7z",
+					"indices": [
+						51,
+						74
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199779437383807000,
+					"id_str": "1199779437383806977",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ5CqYUcAEaXf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ5CqYUcAEaXf-.jpg",
+					"url": "https://t.co/THVFNnWzZp",
+					"display_url": "pic.twitter.com/THVFNnWzZp",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199779439824916480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199779437383807000,
+					"id_str": "1199779437383806977",
+					"indices": [
+						75,
+						98
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ5CqYUcAEaXf-.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ5CqYUcAEaXf-.jpg",
+					"url": "https://t.co/THVFNnWzZp",
+					"display_url": "pic.twitter.com/THVFNnWzZp",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199779439824916480/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 750,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 425,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1058,
+			"friends_count": 1115,
+			"listed_count": 386,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Ferrari Roma Grand Touring Coupe Sculpts Speed https://t.co/JjktbJRQR6 https://t.co/THVFNnWzZp"
+	},
+	{
+		"created_at": "Wed Nov 27 19:58:02 +0000 2019",
+		"id": 1199779433587961900,
+		"id_str": "1199779433587961856",
+		"full_text": "Kikko + Lulu: Comfy Cat Furniture From Labbvenn https://t.co/fp7x2Fegu4 https://t.co/bOeDtbHYoj",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			71
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/fp7x2Fegu4",
+					"expanded_url": "http://dlvr.it/RKFL5S",
+					"display_url": "dlvr.it/RKFL5S",
+					"indices": [
+						48,
+						71
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1199779430761033700,
+					"id_str": "1199779430761033728",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ5CRtU8AA6PNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ5CRtU8AA6PNN.jpg",
+					"url": "https://t.co/bOeDtbHYoj",
+					"display_url": "pic.twitter.com/bOeDtbHYoj",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199779433587961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 395,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 217,
+									"y": 400,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 852,
+									"y": 422,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 232,
+									"y": 427,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 852,
+									"y": 422,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 232,
+									"y": 427,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 224,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 123,
+									"y": 226,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1199779430761033700,
+					"id_str": "1199779430761033728",
+					"indices": [
+						72,
+						95
+					],
+					"media_url": "http://pbs.twimg.com/media/EKZ5CRtU8AA6PNN.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKZ5CRtU8AA6PNN.jpg",
+					"url": "https://t.co/bOeDtbHYoj",
+					"display_url": "pic.twitter.com/bOeDtbHYoj",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1199779433587961856/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 720,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 798,
+									"y": 395,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 217,
+									"y": 400,
+									"h": 66,
+									"w": 66
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 852,
+									"y": 422,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 232,
+									"y": 427,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 852,
+									"y": 422,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 232,
+									"y": 427,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 452,
+									"y": 224,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 123,
+									"y": 226,
+									"h": 37,
+									"w": 37
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1058,
+			"friends_count": 1115,
+			"listed_count": 386,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23461,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ro",
+		"text": "Kikko + Lulu: Comfy Cat Furniture From Labbvenn https://t.co/fp7x2Fegu4 https://t.co/bOeDtbHYoj"
+	},
+	{
 		"created_at": "Tue Nov 26 19:57:33 +0000 2019",
 		"id": 1199416923387129900,
 		"id_str": "1199416923387129856",
