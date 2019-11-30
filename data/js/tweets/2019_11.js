@@ -1,6 +1,359 @@
 Grailbird.data.tweets_2019_11 = 
 [
 	{
+		"created_at": "Fri Nov 29 16:49:02 +0000 2019",
+		"id": 1200456646033432600,
+		"id_str": "1200456646033432576",
+		"full_text": "Friday Five with Breegan Jane https://t.co/z5HdM9AosW https://t.co/dTpEwpwmZV",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/z5HdM9AosW",
+					"expanded_url": "http://dlvr.it/RKMyh4",
+					"display_url": "dlvr.it/RKMyh4",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1200456644091502600,
+					"id_str": "1200456644091502593",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjg9R9U4AEKs2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjg9R9U4AEKs2G.jpg",
+					"url": "https://t.co/dTpEwpwmZV",
+					"display_url": "pic.twitter.com/dTpEwpwmZV",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1200456646033432576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 415,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 112,
+									"y": 72,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 316,
+									"y": 57,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 212,
+									"y": 137,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 596,
+									"y": 108,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 212,
+									"y": 137,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 596,
+									"y": 108,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 734,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 198,
+									"y": 128,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 558,
+									"y": 101,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1200456644091502600,
+					"id_str": "1200456644091502593",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/EKjg9R9U4AEKs2G.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EKjg9R9U4AEKs2G.jpg",
+					"url": "https://t.co/dTpEwpwmZV",
+					"display_url": "pic.twitter.com/dTpEwpwmZV",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1200456646033432576/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 75,
+									"y": 415,
+									"h": 30,
+									"w": 30
+								},
+								{
+									"x": 112,
+									"y": 72,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 316,
+									"y": 57,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 212,
+									"y": 137,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 596,
+									"y": 108,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 142,
+									"y": 783,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 212,
+									"y": 137,
+									"h": 108,
+									"w": 108
+								},
+								{
+									"x": 596,
+									"y": 108,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 133,
+									"y": 734,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 198,
+									"y": 128,
+									"h": 101,
+									"w": 101
+								},
+								{
+									"x": 558,
+									"y": 101,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1058,
+			"friends_count": 1115,
+			"listed_count": 385,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23465,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Friday Five with Breegan Jane https://t.co/z5HdM9AosW https://t.co/dTpEwpwmZV"
+	},
+	{
 		"created_at": "Thu Nov 28 19:59:33 +0000 2019",
 		"id": 1200142202321506300,
 		"id_str": "1200142202321506304",
