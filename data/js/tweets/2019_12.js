@@ -1,6 +1,451 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Thu Dec 12 16:55:36 +0000 2019",
+		"id": 1205169342981083100,
+		"id_str": "1205169342981083139",
+		"full_text": "Nithurst Farm by Adam Richards Architects https://t.co/IGrIVqa30d https://t.co/O8Q43Y1pX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			65
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/IGrIVqa30d",
+					"expanded_url": "http://dlvr.it/RL8pXs",
+					"display_url": "dlvr.it/RL8pXs",
+					"indices": [
+						42,
+						65
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205169340217036800,
+					"id_str": "1205169340217036800",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmfITHUEAA8xGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmfITHUEAA8xGE.jpg",
+					"url": "https://t.co/O8Q43Y1pX2",
+					"display_url": "pic.twitter.com/O8Q43Y1pX2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1205169342981083139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1250,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 840,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 629,
+									"y": 90,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1158,
+									"y": 167,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1111,
+									"y": 160,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1158,
+									"y": 167,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205169340217036800,
+					"id_str": "1205169340217036800",
+					"indices": [
+						66,
+						89
+					],
+					"media_url": "http://pbs.twimg.com/media/ELmfITHUEAA8xGE.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ELmfITHUEAA8xGE.jpg",
+					"url": "https://t.co/O8Q43Y1pX2",
+					"display_url": "pic.twitter.com/O8Q43Y1pX2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1205169342981083139/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 476,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1250,
+							"h": 875,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 840,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 629,
+									"y": 90,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1158,
+									"y": 167,
+									"h": 57,
+									"w": 57
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1111,
+									"y": 160,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1158,
+									"y": 167,
+									"h": 57,
+									"w": 57
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1055,
+			"friends_count": 1113,
+			"listed_count": 387,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Nithurst Farm by Adam Richards Architects https://t.co/IGrIVqa30d https://t.co/O8Q43Y1pX2"
+	},
+	{
+		"created_at": "Thu Dec 12 16:55:34 +0000 2019",
+		"id": 1205169331773956000,
+		"id_str": "1205169331773956096",
+		"full_text": "National Museum of Iceland https://t.co/tZDPrgtlaT https://t.co/LeYZjY5Hla",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tZDPrgtlaT",
+					"expanded_url": "http://dlvr.it/RL8pRC",
+					"display_url": "dlvr.it/RL8pRC",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1205169326036144000,
+					"id_str": "1205169326036144129",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELmfHeSU0AEXCIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELmfHeSU0AEXCIE.jpg",
+					"url": "https://t.co/LeYZjY5Hla",
+					"display_url": "pic.twitter.com/LeYZjY5Hla",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1205169331773956096/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						}
+					},
+					"features": {}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1205169326036144000,
+					"id_str": "1205169326036144129",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/ELmfHeSU0AEXCIE.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/ELmfHeSU0AEXCIE.jpg",
+					"url": "https://t.co/LeYZjY5Hla",
+					"display_url": "pic.twitter.com/LeYZjY5Hla",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1205169331773956096/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 799,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 932,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							350,
+							233
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/ELmfHeSU0AEXCIE.mp4"
+							}
+						]
+					},
+					"features": {}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1055,
+			"friends_count": 1113,
+			"listed_count": 387,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23493,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "National Museum of Iceland https://t.co/tZDPrgtlaT https://t.co/LeYZjY5Hla"
+	},
+	{
 		"created_at": "Wed Dec 11 16:52:06 +0000 2019",
 		"id": 1204806071212052500,
 		"id_str": "1204806071212052480",
