@@ -1,6 +1,608 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Wed Dec 18 17:06:09 +0000 2019",
+		"id": 1207346322598051800,
+		"id_str": "1207346322598051840",
+		"full_text": "The Harmoniously Versatile Kai Collection for Treku https://t.co/QKbyeu5rW7 https://t.co/g6pP9xP9zC",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/QKbyeu5rW7",
+					"expanded_url": "http://dlvr.it/RLWjfZ",
+					"display_url": "dlvr.it/RLWjfZ",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207346320668672000,
+					"id_str": "1207346320668672000",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EMFbFPRUwAACp3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMFbFPRUwAACp3W.jpg",
+					"url": "https://t.co/g6pP9xP9zC",
+					"display_url": "pic.twitter.com/g6pP9xP9zC",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1207346322598051840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 492,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 651,
+									"y": 234,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 845,
+									"y": 615,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 326,
+									"y": 192,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 695,
+									"y": 250,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 902,
+									"y": 657,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 348,
+									"y": 205,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 695,
+									"y": 250,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 902,
+									"y": 657,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 348,
+									"y": 205,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 278,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 369,
+									"y": 132,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 479,
+									"y": 349,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 184,
+									"y": 108,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207346320668672000,
+					"id_str": "1207346320668672000",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/EMFbFPRUwAACp3W.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMFbFPRUwAACp3W.jpg",
+					"url": "https://t.co/g6pP9xP9zC",
+					"display_url": "pic.twitter.com/g6pP9xP9zC",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1207346322598051840/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 960,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 468,
+									"y": 492,
+									"h": 44,
+									"w": 44
+								},
+								{
+									"x": 651,
+									"y": 234,
+									"h": 57,
+									"w": 57
+								},
+								{
+									"x": 845,
+									"y": 615,
+									"h": 59,
+									"w": 59
+								},
+								{
+									"x": 326,
+									"y": 192,
+									"h": 182,
+									"w": 182
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 695,
+									"y": 250,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 902,
+									"y": 657,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 348,
+									"y": 205,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 500,
+									"y": 525,
+									"h": 47,
+									"w": 47
+								},
+								{
+									"x": 695,
+									"y": 250,
+									"h": 61,
+									"w": 61
+								},
+								{
+									"x": 902,
+									"y": 657,
+									"h": 63,
+									"w": 63
+								},
+								{
+									"x": 348,
+									"y": 205,
+									"h": 195,
+									"w": 195
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 265,
+									"y": 278,
+									"h": 24,
+									"w": 24
+								},
+								{
+									"x": 369,
+									"y": 132,
+									"h": 32,
+									"w": 32
+								},
+								{
+									"x": 479,
+									"y": 349,
+									"h": 33,
+									"w": 33
+								},
+								{
+									"x": 184,
+									"y": 108,
+									"h": 103,
+									"w": 103
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 1113,
+			"listed_count": 387,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Harmoniously Versatile Kai Collection for Treku https://t.co/QKbyeu5rW7 https://t.co/g6pP9xP9zC"
+	},
+	{
+		"created_at": "Wed Dec 18 17:06:08 +0000 2019",
+		"id": 1207346317317427200,
+		"id_str": "1207346317317427201",
+		"full_text": "Best Get Out! Posts of 2019 https://t.co/rrkzXgFqvQ https://t.co/iZhoZJ0EeX",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			51
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/rrkzXgFqvQ",
+					"expanded_url": "http://dlvr.it/RLWjdn",
+					"display_url": "dlvr.it/RLWjdn",
+					"indices": [
+						28,
+						51
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1207346314779824000,
+					"id_str": "1207346314779824129",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EMFbE5VUEAERtXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMFbE5VUEAERtXp.jpg",
+					"url": "https://t.co/iZhoZJ0EeX",
+					"display_url": "pic.twitter.com/iZhoZJ0EeX",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1207346317317427201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1207346314779824000,
+					"id_str": "1207346314779824129",
+					"indices": [
+						52,
+						75
+					],
+					"media_url": "http://pbs.twimg.com/media/EMFbE5VUEAERtXp.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMFbE5VUEAERtXp.jpg",
+					"url": "https://t.co/iZhoZJ0EeX",
+					"display_url": "pic.twitter.com/iZhoZJ0EeX",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1207346317317427201/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 866,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1056,
+			"friends_count": 1113,
+			"listed_count": 387,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23507,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best Get Out! Posts of 2019 https://t.co/rrkzXgFqvQ https://t.co/iZhoZJ0EeX"
+	},
+	{
 		"created_at": "Tue Dec 17 17:03:34 +0000 2019",
 		"id": 1206983283696750600,
 		"id_str": "1206983283696750592",
