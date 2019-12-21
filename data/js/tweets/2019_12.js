@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Fri Dec 20 17:10:07 +0000 2019",
+		"id": 1208072096598773800,
+		"id_str": "1208072096598773760",
+		"full_text": "Best Friday Five Posts of 2019 https://t.co/62Hpp8RfLE https://t.co/aRsqvFGmyp",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			54
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/62Hpp8RfLE",
+					"expanded_url": "http://dlvr.it/RLfkqF",
+					"display_url": "dlvr.it/RLfkqF",
+					"indices": [
+						31,
+						54
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208072094497423400,
+					"id_str": "1208072094497423360",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EMPvK1eUwAAvB4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMPvK1eUwAAvB4d.jpg",
+					"url": "https://t.co/aRsqvFGmyp",
+					"display_url": "pic.twitter.com/aRsqvFGmyp",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1208072096598773760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 181,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 181,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 96,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 169,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208072094497423400,
+					"id_str": "1208072094497423360",
+					"indices": [
+						55,
+						78
+					],
+					"media_url": "http://pbs.twimg.com/media/EMPvK1eUwAAvB4d.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMPvK1eUwAAvB4d.jpg",
+					"url": "https://t.co/aRsqvFGmyp",
+					"display_url": "pic.twitter.com/aRsqvFGmyp",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1208072096598773760/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 181,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 556,
+									"y": 181,
+									"h": 137,
+									"w": 137
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 295,
+									"y": 96,
+									"h": 72,
+									"w": 72
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 521,
+									"y": 169,
+									"h": 128,
+									"w": 128
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1058,
+			"friends_count": 1112,
+			"listed_count": 388,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best Friday Five Posts of 2019 https://t.co/62Hpp8RfLE https://t.co/aRsqvFGmyp"
+	},
+	{
+		"created_at": "Fri Dec 20 17:10:05 +0000 2019",
+		"id": 1208072087958503400,
+		"id_str": "1208072087958503424",
+		"full_text": "Best Destination Design Posts of 2019 https://t.co/LGStVlwefC https://t.co/PbqZjemP3p",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			61
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LGStVlwefC",
+					"expanded_url": "http://dlvr.it/RLfkmv",
+					"display_url": "dlvr.it/RLfkmv",
+					"indices": [
+						38,
+						61
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1208072085676810200,
+					"id_str": "1208072085676810242",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EMPvKUnU4AIL0tF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMPvKUnU4AIL0tF.jpg",
+					"url": "https://t.co/PbqZjemP3p",
+					"display_url": "pic.twitter.com/PbqZjemP3p",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1208072087958503424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1208072085676810200,
+					"id_str": "1208072085676810242",
+					"indices": [
+						62,
+						85
+					],
+					"media_url": "http://pbs.twimg.com/media/EMPvKUnU4AIL0tF.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMPvKUnU4AIL0tF.jpg",
+					"url": "https://t.co/PbqZjemP3p",
+					"display_url": "pic.twitter.com/PbqZjemP3p",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1208072087958503424/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1058,
+			"friends_count": 1112,
+			"listed_count": 388,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23513,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Best Destination Design Posts of 2019 https://t.co/LGStVlwefC https://t.co/PbqZjemP3p"
+	},
+	{
 		"created_at": "Thu Dec 19 17:06:36 +0000 2019",
 		"id": 1207708823428845600,
 		"id_str": "1207708823428845573",
