@@ -1,6 +1,408 @@
 Grailbird.data.tweets_2019_12 = 
 [
 	{
+		"created_at": "Mon Dec 23 23:18:33 +0000 2019",
+		"id": 1209251978036924400,
+		"id_str": "1209251978036924416",
+		"full_text": "Strings of Autumn 2019 ? visual identity https://t.co/mLJ8N4nx96 https://t.co/2qFz4yoxnd",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			64
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mLJ8N4nx96",
+					"expanded_url": "http://dlvr.it/RLqkY4",
+					"display_url": "dlvr.it/RLqkY4",
+					"indices": [
+						41,
+						64
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1209251974920589300,
+					"id_str": "1209251974920589313",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EMggQ6kU0AEZ53c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMggQ6kU0AEZ53c.jpg",
+					"url": "https://t.co/2qFz4yoxnd",
+					"display_url": "pic.twitter.com/2qFz4yoxnd",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1209251978036924416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209251974920589300,
+					"id_str": "1209251974920589313",
+					"indices": [
+						65,
+						88
+					],
+					"media_url": "http://pbs.twimg.com/media/EMggQ6kU0AEZ53c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMggQ6kU0AEZ53c.jpg",
+					"url": "https://t.co/2qFz4yoxnd",
+					"display_url": "pic.twitter.com/2qFz4yoxnd",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1209251978036924416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 460,
+							"h": 680,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1386,
+							"h": 2048,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 812,
+							"h": 1200,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 1111,
+			"listed_count": 388,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Strings of Autumn 2019 ? visual identity https://t.co/mLJ8N4nx96 https://t.co/2qFz4yoxnd"
+	},
+	{
+		"created_at": "Mon Dec 23 20:16:34 +0000 2019",
+		"id": 1209206180439920600,
+		"id_str": "1209206180439920640",
+		"full_text": "Font Guide &amp; Specimens https://t.co/mw8pRUQF6V https://t.co/ufAWo5T2ll",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			50
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mw8pRUQF6V",
+					"expanded_url": "http://dlvr.it/RLqN84",
+					"display_url": "dlvr.it/RLqN84",
+					"indices": [
+						27,
+						50
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1209206178288287700,
+					"id_str": "1209206178288287744",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EMf2nM0UwAA7u2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMf2nM0UwAA7u2f.jpg",
+					"url": "https://t.co/ufAWo5T2ll",
+					"display_url": "pic.twitter.com/ufAWo5T2ll",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1209206180439920640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1209206178288287700,
+					"id_str": "1209206178288287744",
+					"indices": [
+						51,
+						74
+					],
+					"media_url": "http://pbs.twimg.com/media/EMf2nM0UwAA7u2f.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EMf2nM0UwAA7u2f.jpg",
+					"url": "https://t.co/ufAWo5T2ll",
+					"display_url": "pic.twitter.com/ufAWo5T2ll",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1209206180439920640/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 459,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 810,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 945,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"orig": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1059,
+			"friends_count": 1111,
+			"listed_count": 388,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23522,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "da",
+		"text": "Font Guide &amp; Specimens https://t.co/mw8pRUQF6V https://t.co/ufAWo5T2ll"
+	},
+	{
 		"created_at": "Sun Dec 22 23:13:03 +0000 2019",
 		"id": 1208888208349511700,
 		"id_str": "1208888208349511680",
