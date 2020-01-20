@@ -1,6 +1,407 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Sun Jan 19 19:57:03 +0000 2020",
+		"id": 1218985744129089500,
+		"id_str": "1218985744129089536",
+		"full_text": "Profi Rebrand https://t.co/GPD8I5nlID https://t.co/WMmuo1lhqT",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			37
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GPD8I5nlID",
+					"expanded_url": "http://dlvr.it/RNLssj",
+					"display_url": "dlvr.it/RNLssj",
+					"indices": [
+						14,
+						37
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1218985741855801300,
+					"id_str": "1218985741855801344",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EOq1EuGUwAA2a_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOq1EuGUwAA2a_l.jpg",
+					"url": "https://t.co/WMmuo1lhqT",
+					"display_url": "pic.twitter.com/WMmuo1lhqT",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1218985744129089536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 582,
+									"y": 157,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 456,
+									"y": 230,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 608,
+									"y": 163,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 534,
+									"y": 120,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1028,
+									"y": 277,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 805,
+									"y": 407,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1073,
+									"y": 288,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 943,
+									"y": 212,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1200,
+									"y": 324,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 940,
+									"y": 475,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1252,
+									"y": 336,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 1101,
+									"y": 248,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1200,
+									"y": 324,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 940,
+									"y": 475,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1252,
+									"y": 336,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 1101,
+									"y": 248,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1218985741855801300,
+					"id_str": "1218985741855801344",
+					"indices": [
+						38,
+						61
+					],
+					"media_url": "http://pbs.twimg.com/media/EOq1EuGUwAA2a_l.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EOq1EuGUwAA2a_l.jpg",
+					"url": "https://t.co/WMmuo1lhqT",
+					"display_url": "pic.twitter.com/WMmuo1lhqT",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1218985744129089536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 306,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 540,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 630,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"small": {
+							"faces": [
+								{
+									"x": 582,
+									"y": 157,
+									"h": 29,
+									"w": 29
+								},
+								{
+									"x": 456,
+									"y": 230,
+									"h": 26,
+									"w": 26
+								},
+								{
+									"x": 608,
+									"y": 163,
+									"h": 28,
+									"w": 28
+								},
+								{
+									"x": 534,
+									"y": 120,
+									"h": 31,
+									"w": 31
+								}
+							]
+						},
+						"medium": {
+							"faces": [
+								{
+									"x": 1028,
+									"y": 277,
+									"h": 51,
+									"w": 51
+								},
+								{
+									"x": 805,
+									"y": 407,
+									"h": 46,
+									"w": 46
+								},
+								{
+									"x": 1073,
+									"y": 288,
+									"h": 49,
+									"w": 49
+								},
+								{
+									"x": 943,
+									"y": 212,
+									"h": 54,
+									"w": 54
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 1200,
+									"y": 324,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 940,
+									"y": 475,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1252,
+									"y": 336,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 1101,
+									"y": 248,
+									"h": 64,
+									"w": 64
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 1200,
+									"y": 324,
+									"h": 60,
+									"w": 60
+								},
+								{
+									"x": 940,
+									"y": 475,
+									"h": 54,
+									"w": 54
+								},
+								{
+									"x": 1252,
+									"y": 336,
+									"h": 58,
+									"w": 58
+								},
+								{
+									"x": 1101,
+									"y": 248,
+									"h": 64,
+									"w": 64
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 1108,
+			"listed_count": 385,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23583,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "ht",
+		"text": "Profi Rebrand https://t.co/GPD8I5nlID https://t.co/WMmuo1lhqT"
+	},
+	{
 		"created_at": "Sat Jan 18 22:55:03 +0000 2020",
 		"id": 1218668148666159000,
 		"id_str": "1218668148666159104",
