@@ -1,6 +1,464 @@
 Grailbird.data.tweets_2020_01 = 
 [
 	{
+		"created_at": "Tue Jan 21 20:00:03 +0000 2020",
+		"id": 1219711274642096000,
+		"id_str": "1219711274642096128",
+		"full_text": "Abstraction Furniture as Interactive Art by Roxanne Flick https://t.co/6sxeiWEgom https://t.co/2V1S6tR4Rw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			81
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6sxeiWEgom",
+					"expanded_url": "http://dlvr.it/RNThM6",
+					"display_url": "dlvr.it/RNThM6",
+					"indices": [
+						58,
+						81
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219711272268128300,
+					"id_str": "1219711272268128257",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EO1I8JgU4AEAoev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO1I8JgU4AEAoev.jpg",
+					"url": "https://t.co/2V1S6tR4Rw",
+					"display_url": "pic.twitter.com/2V1S6tR4Rw",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1219711274642096128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219711272268128300,
+					"id_str": "1219711272268128257",
+					"indices": [
+						82,
+						105
+					],
+					"media_url": "http://pbs.twimg.com/media/EO1I8JgU4AEAoev.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO1I8JgU4AEAoev.jpg",
+					"url": "https://t.co/2V1S6tR4Rw",
+					"display_url": "pic.twitter.com/2V1S6tR4Rw",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1219711274642096128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 850,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": []
+						},
+						"large": {
+							"faces": []
+						},
+						"small": {
+							"faces": []
+						},
+						"orig": {
+							"faces": []
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 1108,
+			"listed_count": 384,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 1,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Abstraction Furniture as Interactive Art by Roxanne Flick https://t.co/6sxeiWEgom https://t.co/2V1S6tR4Rw"
+	},
+	{
+		"created_at": "Tue Jan 21 16:53:33 +0000 2020",
+		"id": 1219664339033936000,
+		"id_str": "1219664339033935873",
+		"full_text": "Reusable Glass Straws That Would Make it Easy to Say Goodbye To Plastic Ones https://t.co/mY62qn2sSB https://t.co/wA9XuKypXF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			100
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/mY62qn2sSB",
+					"expanded_url": "http://dlvr.it/RNT5j4",
+					"display_url": "dlvr.it/RNT5j4",
+					"indices": [
+						77,
+						100
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1219664337540796400,
+					"id_str": "1219664337540796416",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EO0eQMBU0AAgreB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO0eQMBU0AAgreB.jpg",
+					"url": "https://t.co/wA9XuKypXF",
+					"display_url": "pic.twitter.com/wA9XuKypXF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1219664339033935873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 912,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 740,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 790,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 419,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 790,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1219664337540796400,
+					"id_str": "1219664337540796416",
+					"indices": [
+						101,
+						124
+					],
+					"media_url": "http://pbs.twimg.com/media/EO0eQMBU0AAgreB.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EO0eQMBU0AAgreB.jpg",
+					"url": "https://t.co/wA9XuKypXF",
+					"display_url": "pic.twitter.com/wA9XuKypXF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1219664339033935873/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 912,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 973,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 517,
+							"resize": "fit"
+						}
+					},
+					"features": {
+						"medium": {
+							"faces": [
+								{
+									"x": 353,
+									"y": 740,
+									"h": 71,
+									"w": 71
+								}
+							]
+						},
+						"large": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 790,
+									"h": 76,
+									"w": 76
+								}
+							]
+						},
+						"small": {
+							"faces": [
+								{
+									"x": 200,
+									"y": 419,
+									"h": 40,
+									"w": 40
+								}
+							]
+						},
+						"orig": {
+							"faces": [
+								{
+									"x": 377,
+									"y": 790,
+									"h": 76,
+									"w": 76
+								}
+							]
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1051,
+			"friends_count": 1108,
+			"listed_count": 384,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23589,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"can_media_tag": false,
+			"followed_by": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Reusable Glass Straws That Would Make it Easy to Say Goodbye To Plastic Ones https://t.co/mY62qn2sSB https://t.co/wA9XuKypXF"
+	},
+	{
 		"created_at": "Mon Jan 20 19:59:33 +0000 2020",
 		"id": 1219348759500353500,
 		"id_str": "1219348759500353536",
