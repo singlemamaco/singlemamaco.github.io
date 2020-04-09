@@ -1,6 +1,361 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Wed Apr 08 16:58:04 +0000 2020",
+		"id": 1247931728192135200,
+		"id_str": "1247931728192135168",
+		"full_text": "Half Dome Lamp Mimics the Moon’s Light https://t.co/jD60M3pRSF https://t.co/vXcWlrqKxF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			62
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/jD60M3pRSF",
+					"expanded_url": "http://dlvr.it/RTQD2r",
+					"display_url": "dlvr.it/RTQD2r",
+					"indices": [
+						39,
+						62
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247931724413075500,
+					"id_str": "1247931724413075457",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EVGLSqGVAAERNH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVGLSqGVAAERNH1.jpg",
+					"url": "https://t.co/vXcWlrqKxF",
+					"display_url": "pic.twitter.com/vXcWlrqKxF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1247931728192135168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247931724413075500,
+					"id_str": "1247931724413075457",
+					"indices": [
+						63,
+						86
+					],
+					"media_url": "http://pbs.twimg.com/media/EVGLSqGVAAERNH1.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EVGLSqGVAAERNH1.jpg",
+					"url": "https://t.co/vXcWlrqKxF",
+					"display_url": "pic.twitter.com/vXcWlrqKxF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1247931728192135168/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 452,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 797,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 850,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1030,
+			"friends_count": 1096,
+			"listed_count": 375,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Half Dome Lamp Mimics the Moon’s Light https://t.co/jD60M3pRSF https://t.co/vXcWlrqKxF"
+	},
+	{
+		"created_at": "Wed Apr 08 16:57:04 +0000 2020",
+		"id": 1247931478404526000,
+		"id_str": "1247931478404526080",
+		"full_text": "Skyeng https://t.co/9hfBgqZVLi https://t.co/Q51TjrNVbH",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/9hfBgqZVLi",
+					"expanded_url": "http://dlvr.it/RTQCvB",
+					"display_url": "dlvr.it/RTQCvB",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1247931473027420200,
+					"id_str": "1247931473027420160",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVGLEBnUUAAaLX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVGLEBnUUAAaLX9.jpg",
+					"url": "https://t.co/Q51TjrNVbH",
+					"display_url": "pic.twitter.com/Q51TjrNVbH",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1247931478404526080/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 788,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1247931473027420200,
+					"id_str": "1247931473027420160",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/tweet_video_thumb/EVGLEBnUUAAaLX9.jpg",
+					"media_url_https": "https://pbs.twimg.com/tweet_video_thumb/EVGLEBnUUAAaLX9.jpg",
+					"url": "https://t.co/Q51TjrNVbH",
+					"display_url": "pic.twitter.com/Q51TjrNVbH",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1247931478404526080/photo/1",
+					"type": "animated_gif",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 675,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 383,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 788,
+							"resize": "fit"
+						}
+					},
+					"video_info": {
+						"aspect_ratio": [
+							350,
+							197
+						],
+						"variants": [
+							{
+								"bitrate": 0,
+								"content_type": "video/mp4",
+								"url": "https://video.twimg.com/tweet_video/EVGLEBnUUAAaLX9.mp4"
+							}
+						]
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1030,
+			"friends_count": 1096,
+			"listed_count": 375,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23777,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "no",
+		"text": "Skyeng https://t.co/9hfBgqZVLi https://t.co/Q51TjrNVbH"
+	},
+	{
 		"created_at": "Tue Apr 07 16:56:04 +0000 2020",
 		"id": 1247568838603853800,
 		"id_str": "1247568838603853826",
