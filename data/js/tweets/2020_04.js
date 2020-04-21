@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_04 = 
 [
 	{
+		"created_at": "Mon Apr 20 15:19:33 +0000 2020",
+		"id": 1252255591923245000,
+		"id_str": "1252255591923245057",
+		"full_text": "Artips https://t.co/EwYljpxwZD https://t.co/xQnfrBX1zx",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			30
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/EwYljpxwZD",
+					"expanded_url": "http://dlvr.it/RV6LDf",
+					"display_url": "dlvr.it/RV6LDf",
+					"indices": [
+						7,
+						30
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252255589847056400,
+					"id_str": "1252255589847056386",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EWDn0wDUwAIgqic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWDn0wDUwAIgqic.jpg",
+					"url": "https://t.co/xQnfrBX1zx",
+					"display_url": "pic.twitter.com/xQnfrBX1zx",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1252255591923245057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252255589847056400,
+					"id_str": "1252255589847056386",
+					"indices": [
+						31,
+						54
+					],
+					"media_url": "http://pbs.twimg.com/media/EWDn0wDUwAIgqic.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWDn0wDUwAIgqic.jpg",
+					"url": "https://t.co/xQnfrBX1zx",
+					"display_url": "pic.twitter.com/xQnfrBX1zx",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1252255591923245057/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 579,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1193,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 1023,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 1094,
+			"listed_count": 375,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Artips https://t.co/EwYljpxwZD https://t.co/xQnfrBX1zx"
+	},
+	{
+		"created_at": "Mon Apr 20 09:26:05 +0000 2020",
+		"id": 1252166639287591000,
+		"id_str": "1252166639287590913",
+		"full_text": "Quick Design Tip: How to Choose an Interior Paint Sheen https://t.co/qwdFjxqmzt https://t.co/k7Bu1EfXkN",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			79
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/qwdFjxqmzt",
+					"expanded_url": "http://dlvr.it/RV5NYx",
+					"display_url": "dlvr.it/RV5NYx",
+					"indices": [
+						56,
+						79
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1252166637173657600,
+					"id_str": "1252166637173657603",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EWCW7BhU0AMt0td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWCW7BhU0AMt0td.jpg",
+					"url": "https://t.co/k7Bu1EfXkN",
+					"display_url": "pic.twitter.com/k7Bu1EfXkN",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1252166639287590913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1159,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1252166637173657600,
+					"id_str": "1252166637173657603",
+					"indices": [
+						80,
+						103
+					],
+					"media_url": "http://pbs.twimg.com/media/EWCW7BhU0AMt0td.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EWCW7BhU0AMt0td.jpg",
+					"url": "https://t.co/k7Bu1EfXkN",
+					"display_url": "pic.twitter.com/k7Bu1EfXkN",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1252166639287590913/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1159,
+							"h": 1237,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1124,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 637,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1027,
+			"friends_count": 1094,
+			"listed_count": 375,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23807,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Quick Design Tip: How to Choose an Interior Paint Sheen https://t.co/qwdFjxqmzt https://t.co/k7Bu1EfXkN"
+	},
+	{
 		"created_at": "Sun Apr 19 03:19:33 +0000 2020",
 		"id": 1251712009797685200,
 		"id_str": "1251712009797685248",
