@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_06 = 
 [
 	{
+		"created_at": "Sat Jun 06 21:52:32 +0000 2020",
+		"id": 1269386718613958700,
+		"id_str": "1269386718613958658",
+		"full_text": "Fundom Branding https://t.co/RHJUYbVdeV https://t.co/SEgHaA2305",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/RHJUYbVdeV",
+					"expanded_url": "http://dlvr.it/RY79lp",
+					"display_url": "dlvr.it/RY79lp",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269386716898422800,
+					"id_str": "1269386716898422785",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3EfldUcAEKqL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3EfldUcAEKqL3.jpg",
+					"url": "https://t.co/SEgHaA2305",
+					"display_url": "pic.twitter.com/SEgHaA2305",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1269386718613958658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269386716898422800,
+					"id_str": "1269386716898422785",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ3EfldUcAEKqL3.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ3EfldUcAEKqL3.jpg",
+					"url": "https://t.co/SEgHaA2305",
+					"display_url": "pic.twitter.com/SEgHaA2305",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1269386718613958658/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 371,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 763,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 654,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1025,
+			"friends_count": 1090,
+			"listed_count": 368,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Fundom Branding https://t.co/RHJUYbVdeV https://t.co/SEgHaA2305"
+	},
+	{
+		"created_at": "Sat Jun 06 18:51:03 +0000 2020",
+		"id": 1269341047164817400,
+		"id_str": "1269341047164817409",
+		"full_text": "A Jaguar in Iceland https://t.co/bNnyg1pTqo https://t.co/P4E3gAIv4G",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			43
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/bNnyg1pTqo",
+					"expanded_url": "http://dlvr.it/RY6rpq",
+					"display_url": "dlvr.it/RY6rpq",
+					"indices": [
+						20,
+						43
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1269341044790882300,
+					"id_str": "1269341044790882304",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ2a9HmVcAA8mlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ2a9HmVcAA8mlA.jpg",
+					"url": "https://t.co/P4E3gAIv4G",
+					"display_url": "pic.twitter.com/P4E3gAIv4G",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1269341047164817409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1269341044790882300,
+					"id_str": "1269341044790882304",
+					"indices": [
+						44,
+						67
+					],
+					"media_url": "http://pbs.twimg.com/media/EZ2a9HmVcAA8mlA.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EZ2a9HmVcAA8mlA.jpg",
+					"url": "https://t.co/P4E3gAIv4G",
+					"display_url": "pic.twitter.com/P4E3gAIv4G",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1269341047164817409/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 681,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 386,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1025,
+			"friends_count": 1090,
+			"listed_count": 368,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 140,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 23934,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Jaguar in Iceland https://t.co/bNnyg1pTqo https://t.co/P4E3gAIv4G"
+	},
+	{
 		"created_at": "Fri Jun 05 18:52:03 +0000 2020",
 		"id": 1268978909334237200,
 		"id_str": "1268978909334237184",
