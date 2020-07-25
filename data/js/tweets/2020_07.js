@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_07 = 
 [
 	{
+		"created_at": "Fri Jul 24 22:45:03 +0000 2020",
+		"id": 1286794554520121300,
+		"id_str": "1286794554520121344",
+		"full_text": "Skaal, digital real estate agency - Brand design https://t.co/tdJrpsIlqS https://t.co/J8Q2JNPOX2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			72
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/tdJrpsIlqS",
+					"expanded_url": "http://dlvr.it/RcJwJ7",
+					"display_url": "dlvr.it/RcJwJ7",
+					"indices": [
+						49,
+						72
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286794552913752000,
+					"id_str": "1286794552913752065",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Educ1AFU8AE9R_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Educ1AFU8AE9R_8.jpg",
+					"url": "https://t.co/J8Q2JNPOX2",
+					"display_url": "pic.twitter.com/J8Q2JNPOX2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1286794554520121344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286794552913752000,
+					"id_str": "1286794552913752065",
+					"indices": [
+						73,
+						96
+					],
+					"media_url": "http://pbs.twimg.com/media/Educ1AFU8AE9R_8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Educ1AFU8AE9R_8.jpg",
+					"url": "https://t.co/J8Q2JNPOX2",
+					"display_url": "pic.twitter.com/J8Q2JNPOX2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1286794554520121344/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 349,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 718,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 615,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1021,
+			"friends_count": 1087,
+			"listed_count": 364,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Skaal, digital real estate agency - Brand design https://t.co/tdJrpsIlqS https://t.co/J8Q2JNPOX2"
+	},
+	{
+		"created_at": "Fri Jul 24 16:34:03 +0000 2020",
+		"id": 1286701186054107100,
+		"id_str": "1286701186054107136",
+		"full_text": "Clean up Your Home (&amp; Earth) with Blueland’s Minimalist, Refillable Cleaners https://t.co/5GtxOvnaNC https://t.co/NdhEZG0aY2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/5GtxOvnaNC",
+					"expanded_url": "http://dlvr.it/RcHzCV",
+					"display_url": "dlvr.it/RcHzCV",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1286701184376385500,
+					"id_str": "1286701184376385536",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtH6PLUMAAufr8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdtH6PLUMAAufr8.jpg",
+					"url": "https://t.co/NdhEZG0aY2",
+					"display_url": "pic.twitter.com/NdhEZG0aY2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1286701186054107136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1286701184376385500,
+					"id_str": "1286701184376385536",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/EdtH6PLUMAAufr8.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EdtH6PLUMAAufr8.jpg",
+					"url": "https://t.co/NdhEZG0aY2",
+					"display_url": "pic.twitter.com/NdhEZG0aY2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1286701186054107136/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 410,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 771,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 723,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1021,
+			"friends_count": 1087,
+			"listed_count": 364,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24049,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Clean up Your Home (&amp; Earth) with Blueland’s Minimalist, Refillable Cleaners https://t.co/5GtxOvnaNC https://t.co/NdhEZG0aY2"
+	},
+	{
 		"created_at": "Thu Jul 23 16:40:03 +0000 2020",
 		"id": 1286340310914801700,
 		"id_str": "1286340310914801665",
