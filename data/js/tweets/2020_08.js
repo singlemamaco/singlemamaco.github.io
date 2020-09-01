@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_08 = 
 [
 	{
+		"created_at": "Mon Aug 31 15:58:08 +0000 2020",
+		"id": 1300462889623384000,
+		"id_str": "1300462889623384065",
+		"full_text": "Former Apple Engineer Designs Futuristic Kinetic Motion Cannabis Water Pipe https://t.co/nOOTq5aMX4 https://t.co/tIx4P5qkA5",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			99
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nOOTq5aMX4",
+					"expanded_url": "http://dlvr.it/Rfj00v",
+					"display_url": "dlvr.it/Rfj00v",
+					"indices": [
+						76,
+						99
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300462887278751700,
+					"id_str": "1300462887278751745",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwsGxfUMAE1BY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwsGxfUMAE1BY4.jpg",
+					"url": "https://t.co/tIx4P5qkA5",
+					"display_url": "pic.twitter.com/tIx4P5qkA5",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1300462889623384065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300462887278751700,
+					"id_str": "1300462887278751745",
+					"indices": [
+						100,
+						123
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwsGxfUMAE1BY4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwsGxfUMAE1BY4.jpg",
+					"url": "https://t.co/tIx4P5qkA5",
+					"display_url": "pic.twitter.com/tIx4P5qkA5",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1300462889623384065/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 450,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1200,
+							"h": 794,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011,
+			"friends_count": 1083,
+			"listed_count": 363,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Former Apple Engineer Designs Futuristic Kinetic Motion Cannabis Water Pipe https://t.co/nOOTq5aMX4 https://t.co/tIx4P5qkA5"
+	},
+	{
+		"created_at": "Mon Aug 31 15:58:06 +0000 2020",
+		"id": 1300462880324636700,
+		"id_str": "1300462880324636678",
+		"full_text": "Introducing Parcel by Pinch Food Design: Catering Re-Imagined Again https://t.co/vNAuiwzuns https://t.co/iFbd6aGWfR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vNAuiwzuns",
+					"expanded_url": "http://dlvr.it/RfhzzF",
+					"display_url": "dlvr.it/RfhzzF",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1300462878617559000,
+					"id_str": "1300462878617559041",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwsGROU4AEb7aj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwsGROU4AEb7aj.jpg",
+					"url": "https://t.co/iFbd6aGWfR",
+					"display_url": "pic.twitter.com/iFbd6aGWfR",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1300462880324636678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 944,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1300462878617559000,
+					"id_str": "1300462878617559041",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/EgwsGROU4AEb7aj.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/EgwsGROU4AEb7aj.jpg",
+					"url": "https://t.co/iFbd6aGWfR",
+					"display_url": "pic.twitter.com/iFbd6aGWfR",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1300462880324636678/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 1007,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 535,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 944,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1011,
+			"friends_count": 1083,
+			"listed_count": 363,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24141,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Introducing Parcel by Pinch Food Design: Catering Re-Imagined Again https://t.co/vNAuiwzuns https://t.co/iFbd6aGWfR"
+	},
+	{
 		"created_at": "Sat Aug 29 07:25:33 +0000 2020",
 		"id": 1299609115967156200,
 		"id_str": "1299609115967156224",
