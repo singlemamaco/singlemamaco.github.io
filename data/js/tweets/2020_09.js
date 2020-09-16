@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2020_09 = 
 [
 	{
+		"created_at": "Tue Sep 15 18:41:32 +0000 2020",
+		"id": 1305939828169519000,
+		"id_str": "1305939828169519105",
+		"full_text": "Studio Nienke Hoogvliet Turns Seaweed and Fish Skin into Rugs, Fabrics + Leather https://t.co/hv3eCW7VBS https://t.co/77SkZNfzX3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			104
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/hv3eCW7VBS",
+					"expanded_url": "http://dlvr.it/RggSkL",
+					"display_url": "dlvr.it/RggSkL",
+					"indices": [
+						81,
+						104
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305939826307293200,
+					"id_str": "1305939826307293184",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-hWlUU4AA2N1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-hWlUU4AA2N1L.jpg",
+					"url": "https://t.co/77SkZNfzX3",
+					"display_url": "pic.twitter.com/77SkZNfzX3",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1305939828169519105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1277,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305939826307293200,
+					"id_str": "1305939826307293184",
+					"indices": [
+						105,
+						128
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh-hWlUU4AA2N1L.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh-hWlUU4AA2N1L.jpg",
+					"url": "https://t.co/77SkZNfzX3",
+					"display_url": "pic.twitter.com/77SkZNfzX3",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1305939828169519105/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1277,
+							"h": 851,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010,
+			"friends_count": 1086,
+			"listed_count": 365,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Studio Nienke Hoogvliet Turns Seaweed and Fish Skin into Rugs, Fabrics + Leather https://t.co/hv3eCW7VBS https://t.co/77SkZNfzX3"
+	},
+	{
+		"created_at": "Tue Sep 15 15:43:03 +0000 2020",
+		"id": 1305894911590322200,
+		"id_str": "1305894911590322178",
+		"full_text": "The Gravity Cube Click Clock Eliminates Fumbling in the Dark https://t.co/AiDBztiPqg https://t.co/lcbBx1iuJo",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			84
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/AiDBztiPqg",
+					"expanded_url": "http://dlvr.it/RgfsfG",
+					"display_url": "dlvr.it/RgfsfG",
+					"indices": [
+						61,
+						84
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1305894910147440600,
+					"id_str": "1305894910147440642",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh94gHlUMAI4vBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh94gHlUMAI4vBP.jpg",
+					"url": "https://t.co/lcbBx1iuJo",
+					"display_url": "pic.twitter.com/lcbBx1iuJo",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1305894911590322178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 704,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1305894910147440600,
+					"id_str": "1305894910147440642",
+					"indices": [
+						85,
+						108
+					],
+					"media_url": "http://pbs.twimg.com/media/Eh94gHlUMAI4vBP.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/Eh94gHlUMAI4vBP.jpg",
+					"url": "https://t.co/lcbBx1iuJo",
+					"display_url": "pic.twitter.com/lcbBx1iuJo",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1305894911590322178/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 374,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 660,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 704,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1010,
+			"friends_count": 1086,
+			"listed_count": 365,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24177,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "The Gravity Cube Click Clock Eliminates Fumbling in the Dark https://t.co/AiDBztiPqg https://t.co/lcbBx1iuJo"
+	},
+	{
 		"created_at": "Mon Sep 14 15:41:05 +0000 2020",
 		"id": 1305532028381663200,
 		"id_str": "1305532028381663232",
