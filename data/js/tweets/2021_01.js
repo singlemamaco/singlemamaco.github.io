@@ -1,6 +1,348 @@
 Grailbird.data.tweets_2021_01 = 
 [
 	{
+		"created_at": "Fri Jan 08 19:30:04 +0000 2021",
+		"id": 1347626644115050500,
+		"id_str": "1347626644115050496",
+		"full_text": "Saari Chocolate https://t.co/LKQtUDOeb3 https://t.co/ftkeLZu6P6",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			39
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/LKQtUDOeb3",
+					"expanded_url": "http://dlvr.it/RqB2r9",
+					"display_url": "dlvr.it/RqB2r9",
+					"indices": [
+						16,
+						39
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347626642139541500,
+					"id_str": "1347626642139541506",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/ErO7Sn6UcAI_iPR.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErO7Sn6UcAI_iPR.png",
+					"url": "https://t.co/ftkeLZu6P6",
+					"display_url": "pic.twitter.com/ftkeLZu6P6",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1347626644115050496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1400,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347626642139541500,
+					"id_str": "1347626642139541506",
+					"indices": [
+						40,
+						63
+					],
+					"media_url": "http://pbs.twimg.com/media/ErO7Sn6UcAI_iPR.png",
+					"media_url_https": "https://pbs.twimg.com/media/ErO7Sn6UcAI_iPR.png",
+					"url": "https://t.co/ftkeLZu6P6",
+					"display_url": "pic.twitter.com/ftkeLZu6P6",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1347626644115050496/photo/1",
+					"type": "photo",
+					"sizes": {
+						"large": {
+							"w": 1400,
+							"h": 913,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 783,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 443,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006,
+			"friends_count": 1081,
+			"listed_count": 362,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "tl",
+		"text": "Saari Chocolate https://t.co/LKQtUDOeb3 https://t.co/ftkeLZu6P6"
+	},
+	{
+		"created_at": "Fri Jan 08 19:30:03 +0000 2021",
+		"id": 1347626639463628800,
+		"id_str": "1347626639463628800",
+		"full_text": "Love Hultén VOC-25 Is a Synth Choir Designed To Mouth off Musically https://t.co/0uLksM8yA8 https://t.co/npMGV6VQuR",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0uLksM8yA8",
+					"expanded_url": "http://dlvr.it/RqB2pp",
+					"display_url": "dlvr.it/RqB2pp",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1347626637597184000,
+					"id_str": "1347626637597184005",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ErO7SW_VkAUB5S4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErO7SW_VkAUB5S4.jpg",
+					"url": "https://t.co/npMGV6VQuR",
+					"display_url": "pic.twitter.com/npMGV6VQuR",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1347626639463628800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1347626637597184000,
+					"id_str": "1347626637597184005",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/ErO7SW_VkAUB5S4.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/ErO7SW_VkAUB5S4.jpg",
+					"url": "https://t.co/npMGV6VQuR",
+					"display_url": "pic.twitter.com/npMGV6VQuR",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1347626639463628800/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 806,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1280,
+							"h": 860,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 457,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 1006,
+			"friends_count": 1081,
+			"listed_count": 362,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 139,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24434,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none"
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Love Hultén VOC-25 Is a Synth Choir Designed To Mouth off Musically https://t.co/0uLksM8yA8 https://t.co/npMGV6VQuR"
+	},
+	{
 		"created_at": "Thu Jan 07 19:27:04 +0000 2021",
 		"id": 1347263501841035300,
 		"id_str": "1347263501841035264",
