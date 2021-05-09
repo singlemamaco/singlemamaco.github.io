@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_05 = 
 [
 	{
+		"created_at": "Sat May 08 23:00:04 +0000 2021",
+		"id": 1391166038415331300,
+		"id_str": "1391166038415331329",
+		"full_text": "Set of posters for FinAwards 2020 https://t.co/U5smqeTmy4 https://t.co/9Bst3QRllB",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U5smqeTmy4",
+					"expanded_url": "http://dlvr.it/RzLrLB",
+					"display_url": "dlvr.it/RzLrLB",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1391166034715971600,
+					"id_str": "1391166034715971586",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E05qI0rVkAIY04O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E05qI0rVkAIY04O.jpg",
+					"url": "https://t.co/9Bst3QRllB",
+					"display_url": "pic.twitter.com/9Bst3QRllB",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1391166038415331329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1131,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391166034715971600,
+					"id_str": "1391166034715971586",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E05qI0rVkAIY04O.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E05qI0rVkAIY04O.jpg",
+					"url": "https://t.co/9Bst3QRllB",
+					"display_url": "pic.twitter.com/9Bst3QRllB",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1391166038415331329/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1131,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 1485,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 641,
+							"h": 680,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 1073,
+			"listed_count": 357,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Set of posters for FinAwards 2020 https://t.co/U5smqeTmy4 https://t.co/9Bst3QRllB"
+	},
+	{
+		"created_at": "Sat May 08 17:01:07 +0000 2021",
+		"id": 1391075705832624000,
+		"id_str": "1391075705832624128",
+		"full_text": "The Château Grande Hotel Branding https://t.co/nZVAjjSNKH https://t.co/8ogd1RSjcw",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			57
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/nZVAjjSNKH",
+					"expanded_url": "http://dlvr.it/RzL589",
+					"display_url": "dlvr.it/RzL589",
+					"indices": [
+						34,
+						57
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1391075703395786800,
+					"id_str": "1391075703395786753",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E04X-2SVIAECGD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E04X-2SVIAECGD9.jpg",
+					"url": "https://t.co/8ogd1RSjcw",
+					"display_url": "pic.twitter.com/8ogd1RSjcw",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1391075705832624128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 867,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1391075703395786800,
+					"id_str": "1391075703395786753",
+					"indices": [
+						58,
+						81
+					],
+					"media_url": "http://pbs.twimg.com/media/E04X-2SVIAECGD9.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E04X-2SVIAECGD9.jpg",
+					"url": "https://t.co/8ogd1RSjcw",
+					"display_url": "pic.twitter.com/8ogd1RSjcw",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1391075705832624128/photo/1",
+					"type": "photo",
+					"sizes": {
+						"medium": {
+							"w": 1200,
+							"h": 743,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1400,
+							"h": 867,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 421,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 994,
+			"friends_count": 1073,
+			"listed_count": 357,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24728,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "fr",
+		"text": "The Château Grande Hotel Branding https://t.co/nZVAjjSNKH https://t.co/8ogd1RSjcw"
+	},
+	{
 		"created_at": "Fri May 07 16:58:33 +0000 2021",
 		"id": 1390712671683498000,
 		"id_str": "1390712671683497986",
