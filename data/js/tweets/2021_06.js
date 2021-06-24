@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Wed Jun 23 20:06:35 +0000 2021",
+		"id": 1407792222406205400,
+		"id_str": "1407792222406205441",
+		"full_text": "A Darling Craftsman Hits the Market at $849K in L.A. https://t.co/l0CxauH7Xo https://t.co/EAKW2EtjGL",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			76
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/l0CxauH7Xo",
+					"expanded_url": "http://dlvr.it/S2KRNp",
+					"display_url": "dlvr.it/S2KRNp",
+					"indices": [
+						53,
+						76
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407792220309115000,
+					"id_str": "1407792220309114881",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E4l7kMkVUAE8fYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4l7kMkVUAE8fYO.jpg",
+					"url": "https://t.co/EAKW2EtjGL",
+					"display_url": "pic.twitter.com/EAKW2EtjGL",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1407792222406205441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407792220309115000,
+					"id_str": "1407792220309114881",
+					"indices": [
+						77,
+						100
+					],
+					"media_url": "http://pbs.twimg.com/media/E4l7kMkVUAE8fYO.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4l7kMkVUAE8fYO.jpg",
+					"url": "https://t.co/EAKW2EtjGL",
+					"display_url": "pic.twitter.com/EAKW2EtjGL",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1407792222406205441/photo/1",
+					"type": "photo",
+					"sizes": {
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1072,
+			"listed_count": 356,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Darling Craftsman Hits the Market at $849K in L.A. https://t.co/l0CxauH7Xo https://t.co/EAKW2EtjGL"
+	},
+	{
+		"created_at": "Wed Jun 23 17:09:04 +0000 2021",
+		"id": 1407747546944995300,
+		"id_str": "1407747546944995330",
+		"full_text": "Microsoft’s Celebration of Pride Embraces Diversity and Inclusivity Through Design https://t.co/6n2Wze888e https://t.co/89lT6hSn8L",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			106
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/6n2Wze888e",
+					"expanded_url": "http://dlvr.it/S2JtSQ",
+					"display_url": "dlvr.it/S2JtSQ",
+					"indices": [
+						83,
+						106
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1407747544705224700,
+					"id_str": "1407747544705224704",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4lS7u-VUAAXWtQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4lS7u-VUAAXWtQ.jpg",
+					"url": "https://t.co/89lT6hSn8L",
+					"display_url": "pic.twitter.com/89lT6hSn8L",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1407747546944995330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 937,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1407747544705224700,
+					"id_str": "1407747544705224704",
+					"indices": [
+						107,
+						130
+					],
+					"media_url": "http://pbs.twimg.com/media/E4lS7u-VUAAXWtQ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E4lS7u-VUAAXWtQ.jpg",
+					"url": "https://t.co/89lT6hSn8L",
+					"display_url": "pic.twitter.com/89lT6hSn8L",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1407747546944995330/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 531,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 937,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1230,
+							"h": 960,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 989,
+			"friends_count": 1072,
+			"listed_count": 356,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24844,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Microsoft’s Celebration of Pride Embraces Diversity and Inclusivity Through Design https://t.co/6n2Wze888e https://t.co/89lT6hSn8L"
+	},
+	{
 		"created_at": "Tue Jun 22 20:06:04 +0000 2021",
 		"id": 1407429702902456300,
 		"id_str": "1407429702902456321",
