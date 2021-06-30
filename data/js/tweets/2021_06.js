@@ -1,6 +1,350 @@
 Grailbird.data.tweets_2021_06 = 
 [
 	{
+		"created_at": "Tue Jun 29 19:29:37 +0000 2021",
+		"id": 1409957245442400300,
+		"id_str": "1409957245442400256",
+		"full_text": "Make Nice With the Playful Pattern Repeat Room Divider https://t.co/YOqElia4uM https://t.co/N9xNmO2kL2",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			78
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/YOqElia4uM",
+					"expanded_url": "http://dlvr.it/S2jvPh",
+					"display_url": "dlvr.it/S2jvPh",
+					"indices": [
+						55,
+						78
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409957243236229000,
+					"id_str": "1409957243236229121",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5EspHeVoAEi_hR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5EspHeVoAEi_hR.jpg",
+					"url": "https://t.co/N9xNmO2kL2",
+					"display_url": "pic.twitter.com/N9xNmO2kL2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1409957245442400256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409957243236229000,
+					"id_str": "1409957243236229121",
+					"indices": [
+						79,
+						102
+					],
+					"media_url": "http://pbs.twimg.com/media/E5EspHeVoAEi_hR.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5EspHeVoAEi_hR.jpg",
+					"url": "https://t.co/N9xNmO2kL2",
+					"display_url": "pic.twitter.com/N9xNmO2kL2",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1409957245442400256/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 398,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 750,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 703,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 990,
+			"friends_count": 1072,
+			"listed_count": 356,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Make Nice With the Playful Pattern Repeat Room Divider https://t.co/YOqElia4uM https://t.co/N9xNmO2kL2"
+	},
+	{
+		"created_at": "Tue Jun 29 16:03:05 +0000 2021",
+		"id": 1409905267446222800,
+		"id_str": "1409905267446222848",
+		"full_text": "An Angled Expansion Gives a Bungalow in Melbourne an Open-Air Slant https://t.co/vd28PNOypK https://t.co/BBjz9ZAj6O",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			91
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/vd28PNOypK",
+					"expanded_url": "http://dlvr.it/S2jG73",
+					"display_url": "dlvr.it/S2jG73",
+					"indices": [
+						68,
+						91
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1409905264963166200,
+					"id_str": "1409905264963166208",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E5D9XlUVIAAA37c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5D9XlUVIAAA37c.jpg",
+					"url": "https://t.co/BBjz9ZAj6O",
+					"display_url": "pic.twitter.com/BBjz9ZAj6O",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1409905267446222848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1068,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1409905264963166200,
+					"id_str": "1409905264963166208",
+					"indices": [
+						92,
+						115
+					],
+					"media_url": "http://pbs.twimg.com/media/E5D9XlUVIAAA37c.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/E5D9XlUVIAAA37c.jpg",
+					"url": "https://t.co/BBjz9ZAj6O",
+					"display_url": "pic.twitter.com/BBjz9ZAj6O",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1409905267446222848/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1068,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 990,
+			"friends_count": 1072,
+			"listed_count": 356,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 138,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 24860,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An Angled Expansion Gives a Bungalow in Melbourne an Open-Air Slant https://t.co/vd28PNOypK https://t.co/BBjz9ZAj6O"
+	},
+	{
 		"created_at": "Mon Jun 28 19:28:08 +0000 2021",
 		"id": 1409594483826577400,
 		"id_str": "1409594483826577421",
