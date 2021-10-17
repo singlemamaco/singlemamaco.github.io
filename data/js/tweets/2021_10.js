@@ -1,6 +1,522 @@
 Grailbird.data.tweets_2021_10 = 
 [
 	{
+		"created_at": "Sat Oct 16 19:25:35 +0000 2021",
+		"id": 1449456505313366000,
+		"id_str": "1449456505313366018",
+		"full_text": "A Charming Los Angeles Bungalow Asks $750K https://t.co/1wyC3lZyiL https://t.co/eNvXrGgibr",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			66
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/1wyC3lZyiL",
+					"expanded_url": "http://dlvr.it/S9jQC8",
+					"display_url": "dlvr.it/S9jQC8",
+					"indices": [
+						43,
+						66
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449456503354626000,
+					"id_str": "1449456503354626051",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FB2BAp_VEAM6D-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB2BAp_VEAM6D-g.jpg",
+					"url": "https://t.co/eNvXrGgibr",
+					"display_url": "pic.twitter.com/eNvXrGgibr",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449456505313366018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1499,
+							"h": 944,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449456503354626000,
+					"id_str": "1449456503354626051",
+					"indices": [
+						67,
+						90
+					],
+					"media_url": "http://pbs.twimg.com/media/FB2BAp_VEAM6D-g.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB2BAp_VEAM6D-g.jpg",
+					"url": "https://t.co/eNvXrGgibr",
+					"display_url": "pic.twitter.com/eNvXrGgibr",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449456505313366018/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1499,
+							"h": 944,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 756,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 428,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987,
+			"friends_count": 1067,
+			"listed_count": 355,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "A Charming Los Angeles Bungalow Asks $750K https://t.co/1wyC3lZyiL https://t.co/eNvXrGgibr"
+	},
+	{
+		"created_at": "Sat Oct 16 17:21:04 +0000 2021",
+		"id": 1449425171912147000,
+		"id_str": "1449425171912146945",
+		"full_text": "Frank and Oak : Brand refresh https://t.co/U4qgozxt9V https://t.co/zXaAVVc5CF",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			53
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/U4qgozxt9V",
+					"expanded_url": "http://dlvr.it/S9j7gL",
+					"display_url": "dlvr.it/S9j7gL",
+					"indices": [
+						30,
+						53
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449425169928183800,
+					"id_str": "1449425169928183808",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1kgz4UYAAuGZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1kgz4UYAAuGZe.jpg",
+					"url": "https://t.co/zXaAVVc5CF",
+					"display_url": "pic.twitter.com/zXaAVVc5CF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449425171912146945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449425169928183800,
+					"id_str": "1449425169928183808",
+					"indices": [
+						54,
+						77
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1kgz4UYAAuGZe.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1kgz4UYAAuGZe.jpg",
+					"url": "https://t.co/zXaAVVc5CF",
+					"display_url": "pic.twitter.com/zXaAVVc5CF",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449425171912146945/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 602,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 341,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1400,
+							"h": 702,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987,
+			"friends_count": 1067,
+			"listed_count": 355,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Frank and Oak : Brand refresh https://t.co/U4qgozxt9V https://t.co/zXaAVVc5CF"
+	},
+	{
+		"created_at": "Sat Oct 16 16:00:36 +0000 2021",
+		"id": 1449404919748780000,
+		"id_str": "1449404919748780035",
+		"full_text": "Art and Nature Converge at a Couple’s Glass, Cedar, and Stone House in New York https://t.co/JOzg5aHdAc https://t.co/piBU8iy3Mu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			103
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/JOzg5aHdAc",
+					"expanded_url": "http://dlvr.it/S9hyhc",
+					"display_url": "dlvr.it/S9hyhc",
+					"indices": [
+						80,
+						103
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1449404917345493000,
+					"id_str": "1449404917345492999",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1SF9IVIAcgzVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1SF9IVIAcgzVJ.jpg",
+					"url": "https://t.co/piBU8iy3Mu",
+					"display_url": "pic.twitter.com/piBU8iy3Mu",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449404919748780035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1449404917345493000,
+					"id_str": "1449404917345492999",
+					"indices": [
+						104,
+						127
+					],
+					"media_url": "http://pbs.twimg.com/media/FB1SF9IVIAcgzVJ.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FB1SF9IVIAcgzVJ.jpg",
+					"url": "https://t.co/piBU8iy3Mu",
+					"display_url": "pic.twitter.com/piBU8iy3Mu",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1449404919748780035/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1067,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 987,
+			"friends_count": 1067,
+			"listed_count": 355,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 136,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25188,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Art and Nature Converge at a Couple’s Glass, Cedar, and Stone House in New York https://t.co/JOzg5aHdAc https://t.co/piBU8iy3Mu"
+	},
+	{
 		"created_at": "Fri Oct 15 19:25:34 +0000 2021",
 		"id": 1449094113563869200,
 		"id_str": "1449094113563869184",
