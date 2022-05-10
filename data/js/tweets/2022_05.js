@@ -1,6 +1,1210 @@
 Grailbird.data.tweets_2022_05 = 
 [
 	{
+		"created_at": "Mon May 09 22:56:33 +0000 2022",
+		"id": 1523799111698317300,
+		"id_str": "1523799111698317313",
+		"full_text": "These Backyard Prefabs Double as a Battery Pack for Your Primary Residence https://t.co/L6Kq9cyLwE https://t.co/MX8VKgZf7w",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			98
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/L6Kq9cyLwE",
+					"expanded_url": "http://dlvr.it/SQ3Lk3",
+					"display_url": "dlvr.it/SQ3Lk3",
+					"indices": [
+						75,
+						98
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523799109596893200,
+					"id_str": "1523799109596893184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FSWfN3yUUAAIeyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSWfN3yUUAAIeyx.jpg",
+					"url": "https://t.co/MX8VKgZf7w",
+					"display_url": "pic.twitter.com/MX8VKgZf7w",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523799111698317313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1161,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523799109596893200,
+					"id_str": "1523799109596893184",
+					"indices": [
+						99,
+						122
+					],
+					"media_url": "http://pbs.twimg.com/media/FSWfN3yUUAAIeyx.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSWfN3yUUAAIeyx.jpg",
+					"url": "https://t.co/MX8VKgZf7w",
+					"display_url": "pic.twitter.com/MX8VKgZf7w",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523799111698317313/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 493,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1161,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 871,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "These Backyard Prefabs Double as a Battery Pack for Your Primary Residence https://t.co/L6Kq9cyLwE https://t.co/MX8VKgZf7w"
+	},
+	{
+		"created_at": "Mon May 09 17:34:38 +0000 2022",
+		"id": 1523718096615133200,
+		"id_str": "1523718096615133187",
+		"full_text": "An Attic in Prague Is Renovated To Reflect Owners’ Love of Czech Graffiti Art https://t.co/R5w51dFQ8o https://t.co/OCTwKn37p3",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			101
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/R5w51dFQ8o",
+					"expanded_url": "http://dlvr.it/SQ2bQZ",
+					"display_url": "dlvr.it/SQ2bQZ",
+					"indices": [
+						78,
+						101
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523718095109456000,
+					"id_str": "1523718095109455875",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVViNTVgAMBabT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVViNTVgAMBabT.jpg",
+					"url": "https://t.co/OCTwKn37p3",
+					"display_url": "pic.twitter.com/OCTwKn37p3",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718096615133187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523718095109456000,
+					"id_str": "1523718095109455875",
+					"indices": [
+						102,
+						125
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVViNTVgAMBabT.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVViNTVgAMBabT.jpg",
+					"url": "https://t.co/OCTwKn37p3",
+					"display_url": "pic.twitter.com/OCTwKn37p3",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718096615133187/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "An Attic in Prague Is Renovated To Reflect Owners’ Love of Czech Graffiti Art https://t.co/R5w51dFQ8o https://t.co/OCTwKn37p3"
+	},
+	{
+		"created_at": "Mon May 09 17:34:35 +0000 2022",
+		"id": 1523718086867660800,
+		"id_str": "1523718086867660802",
+		"full_text": "This Collection of Accessories + Furniture Is Wrapped in Techno Leather https://t.co/0T6G4MV205 https://t.co/hrsvqKr02a",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			95
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/0T6G4MV205",
+					"expanded_url": "http://dlvr.it/SQ2bQB",
+					"display_url": "dlvr.it/SQ2bQB",
+					"indices": [
+						72,
+						95
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523718084812439600,
+					"id_str": "1523718084812439553",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVVhm8VgAEcUDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVVhm8VgAEcUDn.jpg",
+					"url": "https://t.co/hrsvqKr02a",
+					"display_url": "pic.twitter.com/hrsvqKr02a",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718086867660802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523718084812439600,
+					"id_str": "1523718084812439553",
+					"indices": [
+						96,
+						119
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVVhm8VgAEcUDn.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVVhm8VgAEcUDn.jpg",
+					"url": "https://t.co/hrsvqKr02a",
+					"display_url": "pic.twitter.com/hrsvqKr02a",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718086867660802/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"small": {
+							"w": 680,
+							"h": 454,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 854,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 801,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "This Collection of Accessories + Furniture Is Wrapped in Techno Leather https://t.co/0T6G4MV205 https://t.co/hrsvqKr02a"
+	},
+	{
+		"created_at": "Mon May 09 17:34:33 +0000 2022",
+		"id": 1523718075190632400,
+		"id_str": "1523718075190632449",
+		"full_text": "Humanscale’s Path Toward Sustainable and Inclusive Task Seating https://t.co/VFmS5Dz5X6 https://t.co/UIdghqYjio",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			87
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/VFmS5Dz5X6",
+					"expanded_url": "http://dlvr.it/SQ2bLF",
+					"display_url": "dlvr.it/SQ2bLF",
+					"indices": [
+						64,
+						87
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523718073567481900,
+					"id_str": "1523718073567481869",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVVg9DVEA0dl7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVVg9DVEA0dl7_.jpg",
+					"url": "https://t.co/UIdghqYjio",
+					"display_url": "pic.twitter.com/UIdghqYjio",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718075190632449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1180,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523718073567481900,
+					"id_str": "1523718073567481869",
+					"indices": [
+						88,
+						111
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVVg9DVEA0dl7_.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVVg9DVEA0dl7_.jpg",
+					"url": "https://t.co/UIdghqYjio",
+					"display_url": "pic.twitter.com/UIdghqYjio",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523718075190632449/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1180,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1180,
+							"h": 800,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 461,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Humanscale’s Path Toward Sustainable and Inclusive Task Seating https://t.co/VFmS5Dz5X6 https://t.co/UIdghqYjio"
+	},
+	{
+		"created_at": "Mon May 09 16:01:03 +0000 2022",
+		"id": 1523694548811059200,
+		"id_str": "1523694548811059200",
+		"full_text": "Before &amp; After: A Single Door Connects This San Francisco Bungalow’s Past With Its Future https://t.co/wgRQWEIYRr https://t.co/wv277tHBdS",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			117
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/wgRQWEIYRr",
+					"expanded_url": "http://dlvr.it/SQ2K2G",
+					"display_url": "dlvr.it/SQ2K2G",
+					"indices": [
+						94,
+						117
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523694546860707800,
+					"id_str": "1523694546860707841",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVAHhPVEAEVjQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVAHhPVEAEVjQ5.jpg",
+					"url": "https://t.co/wv277tHBdS",
+					"display_url": "pic.twitter.com/wv277tHBdS",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523694548811059200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523694546860707800,
+					"id_str": "1523694546860707841",
+					"indices": [
+						118,
+						141
+					],
+					"media_url": "http://pbs.twimg.com/media/FSVAHhPVEAEVjQ5.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSVAHhPVEAEVjQ5.jpg",
+					"url": "https://t.co/wv277tHBdS",
+					"display_url": "pic.twitter.com/wv277tHBdS",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523694548811059200/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"large": {
+							"w": 1600,
+							"h": 1200,
+							"resize": "fit"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 900,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 510,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Before &amp; After: A Single Door Connects This San Francisco Bungalow’s Past With Its Future https://t.co/wgRQWEIYRr https://t.co/wv277tHBdS"
+	},
+	{
+		"created_at": "Mon May 09 14:35:07 +0000 2022",
+		"id": 1523672919976513500,
+		"id_str": "1523672919976513536",
+		"full_text": "Check Please! Our Favorite Checkerboard Finds https://t.co/GCshfDykfm https://t.co/EUU8ZiADGt",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			69
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/GCshfDykfm",
+					"expanded_url": "http://dlvr.it/SQ22xX",
+					"display_url": "dlvr.it/SQ22xX",
+					"indices": [
+						46,
+						69
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523672917375996000,
+					"id_str": "1523672917375995904",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUschIUUAAnu-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUschIUUAAnu-C.jpg",
+					"url": "https://t.co/EUU8ZiADGt",
+					"display_url": "pic.twitter.com/EUU8ZiADGt",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523672919976513536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523672917375996000,
+					"id_str": "1523672917375995904",
+					"indices": [
+						70,
+						93
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUschIUUAAnu-C.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUschIUUAAnu-C.jpg",
+					"url": "https://t.co/EUU8ZiADGt",
+					"display_url": "pic.twitter.com/EUU8ZiADGt",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523672919976513536/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 812,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 460,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 866,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Check Please! Our Favorite Checkerboard Finds https://t.co/GCshfDykfm https://t.co/EUU8ZiADGt"
+	},
+	{
+		"created_at": "Mon May 09 14:35:04 +0000 2022",
+		"id": 1523672907901116400,
+		"id_str": "1523672907901116416",
+		"full_text": "Memory Functions Welcomes New Starts + Old Memories https://t.co/D4I05Q8kyP https://t.co/El9fEP88Zu",
+		"truncated": false,
+		"display_text_range": [
+			0,
+			75
+		],
+		"entities": {
+			"hashtags": [],
+			"symbols": [],
+			"user_mentions": [],
+			"urls": [
+				{
+					"url": "https://t.co/D4I05Q8kyP",
+					"expanded_url": "http://dlvr.it/SQ22tL",
+					"display_url": "dlvr.it/SQ22tL",
+					"indices": [
+						52,
+						75
+					]
+				}
+			],
+			"media": [
+				{
+					"id": 1523672905145405400,
+					"id_str": "1523672905145405440",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUsbzkUUAAYBrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUsbzkUUAAYBrL.jpg",
+					"url": "https://t.co/El9fEP88Zu",
+					"display_url": "pic.twitter.com/El9fEP88Zu",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523672907901116416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"extended_entities": {
+			"media": [
+				{
+					"id": 1523672905145405400,
+					"id_str": "1523672905145405440",
+					"indices": [
+						76,
+						99
+					],
+					"media_url": "http://pbs.twimg.com/media/FSUsbzkUUAAYBrL.jpg",
+					"media_url_https": "https://pbs.twimg.com/media/FSUsbzkUUAAYBrL.jpg",
+					"url": "https://t.co/El9fEP88Zu",
+					"display_url": "pic.twitter.com/El9fEP88Zu",
+					"expanded_url": "https://twitter.com/singlemamaco/status/1523672907901116416/photo/1",
+					"type": "photo",
+					"sizes": {
+						"thumb": {
+							"w": 150,
+							"h": 150,
+							"resize": "crop"
+						},
+						"medium": {
+							"w": 1200,
+							"h": 800,
+							"resize": "fit"
+						},
+						"large": {
+							"w": 1280,
+							"h": 853,
+							"resize": "fit"
+						},
+						"small": {
+							"w": 680,
+							"h": 453,
+							"resize": "fit"
+						}
+					}
+				}
+			]
+		},
+		"source": "<a href=\"https://dlvrit.com/\" rel=\"nofollow\">dlvr.it</a>",
+		"in_reply_to_status_id": null,
+		"in_reply_to_status_id_str": null,
+		"in_reply_to_user_id": null,
+		"in_reply_to_user_id_str": null,
+		"in_reply_to_screen_name": null,
+		"user": {
+			"id": 703680978879979500,
+			"id_str": "703680978879979521",
+			"name": "Single Mama Design Co",
+			"screen_name": "singlemamaco",
+			"location": "Easthampton, MA",
+			"description": "celebrating all things #design & #DIY #graphicdesign #branding #solopreneur #architecture #typography #interiordesign #socialmedia #homestaging #realestate",
+			"url": null,
+			"entities": {
+				"description": {
+					"urls": []
+				}
+			},
+			"protected": false,
+			"followers_count": 969,
+			"friends_count": 1063,
+			"listed_count": 350,
+			"created_at": "Sat Feb 27 20:39:53 +0000 2016",
+			"favourites_count": 131,
+			"utc_offset": null,
+			"time_zone": null,
+			"geo_enabled": false,
+			"verified": false,
+			"statuses_count": 25598,
+			"lang": null,
+			"contributors_enabled": false,
+			"is_translator": false,
+			"is_translation_enabled": false,
+			"profile_background_color": "000000",
+			"profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+			"profile_background_tile": false,
+			"profile_image_url": "http://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_image_url_https": "https://pbs.twimg.com/profile_images/877764065204068352/7UuHX6EU_normal.jpg",
+			"profile_banner_url": "https://pbs.twimg.com/profile_banners/703680978879979521/1486017084",
+			"profile_link_color": "E78888",
+			"profile_sidebar_border_color": "000000",
+			"profile_sidebar_fill_color": "000000",
+			"profile_text_color": "000000",
+			"profile_use_background_image": false,
+			"has_extended_profile": true,
+			"default_profile": false,
+			"default_profile_image": false,
+			"following": false,
+			"follow_request_sent": false,
+			"notifications": false,
+			"translator_type": "none",
+			"withheld_in_countries": []
+		},
+		"geo": null,
+		"coordinates": null,
+		"place": null,
+		"contributors": null,
+		"is_quote_status": false,
+		"retweet_count": 0,
+		"favorite_count": 0,
+		"favorited": false,
+		"retweeted": false,
+		"possibly_sensitive": false,
+		"lang": "en",
+		"text": "Memory Functions Welcomes New Starts + Old Memories https://t.co/D4I05Q8kyP https://t.co/El9fEP88Zu"
+	},
+	{
 		"created_at": "Sun May 08 22:56:34 +0000 2022",
 		"id": 1523436726714192000,
 		"id_str": "1523436726714191874",
